@@ -1,0 +1,35 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-28T17:23:39+02:00
+
+====== Liminal space ======
+Created Monday 28 September 2020
+
+The distance between what you know and the unknown.
+Uncomfortable journey. Change is necessary but it is not yet clear what the new state will be.
+
+
+
+Liminal space is very hard to come by in the modern and now post-modern world. We are now too strategic, functional, and hurried to easily seek what the ancients sought above all else. Only pain is now strong enough to lead us into this unique place "where all significant transformation happens."
+Richard Rohr
+
+Computer scientists are too comfortable in their ways as well. 
+
+Change is discomfort. Change is uncertainty. Good times mean that people become fearful and complacent.
+
+If times are good people will resist the change with everything they've got. But in the end the change is forced upon them.
+
+
+Liminal space is interesting in religious sense. Religions require devotion and belief. 
+Being devoted means becoming comfortable with the liminal space. This reminds me of Bhakti yoga, the spiritual way to enlightenment.
+True belief has doubt. If you just believe you are a fanatic. If you have doubts you are in liminal space.
+I could see how being devoted in this way can lead to detachment from desires. If you are comfortable in liminal space you can withstand any hardships and feel fine. Some religious people are pretty cool, others are assholes.
+
+
+Spiritual growth is learning to thrive in ambiguity. Knowing that you'll be fine and being able to just wait or just do what you must.
+
+Many cultures have rites of passage. Maybe something like that is necessary for spiritual growth.
+
+
+Crazy idea: system that makes random changes to your codebase to make it feel less familiar. Kind of rite of passage thing.
+Also, codebase that is robust to random changes seems well made.

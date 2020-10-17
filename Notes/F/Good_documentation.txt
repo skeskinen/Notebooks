@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-12T16:50:28+02:00
+
+====== Good documentation ======
+Created Saturday 12 September 2020
+
+Good documentation has three parts:
+* Tutorials
+* Descriptions of major topics and concepts
+* Reference
+
+The main purpose of documentation is to teach. You'll need to think about the starting level and development of the reader.
+
+You should have an idea of what your readers want to do. Then come up with a plan of how to teach the reader to do that thing.
+
+You should also:
+* Link what you explain to other things you explain and how they combine.
+* Tell why the things you teach are useful and what can be built on top of them.
+* Explain how the material will improve the understanding of the reader.

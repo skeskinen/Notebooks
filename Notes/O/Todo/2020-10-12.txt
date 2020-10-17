@@ -1,0 +1,55 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-12T09:15:44+03:00
+
+====== 2020-10-12 ======
+Created Monday 12 October 2020
+
+[ ] Read fleeting notes
+[ ] Organize & rewrite 
+
+[ ] Cleanup blog code
+
+[ ] Blog in rust
+	[*] Outline
+	[ ] Write Three paragraphs
+	[ ] Write blog post draft 1
+	[ ] Outline part 2
+	[ ] Write blog post draft 2
+[ ] Why write
+	[*] Outline
+	[ ] Write Three paragraphs
+	[ ] Write blog post draft 1
+	[ ] Outline part 2
+	[ ] Write blog post draft 2
+[ ] Mindstorms review
+	[*] Outline
+	[ ] Write Three paragraphs
+	[ ] Write blog post draft 1
+	[ ] Outline part 2
+	[ ] Write blog post draft 2
+[ ] Monospace
+	[*] Outline
+	[ ] Write Three paragraphs
+	[ ] Write blog post draft 1
+	[ ] Outline part 2
+	[ ] Write blog post draft 2
+[ ] Nand2Tetris
+	[*] Outline
+	[ ] Write Three paragraphs
+	[ ] Write blog post draft 1
+	[ ] Outline part 2
+	[ ] Write blog post draft 2
+
+[ ] Sveitsi veroilmoitus
+[*] Varaa hammaslääkäri
+
+[ ] Stranger In a strange land 25
+[ ] Stranger In a strange land 28
+[ ] Stranger In a strange land 31
+[ ] Stranger In a strange land 33
+[ ] Stranger In a strange land 36
+[ ] Stranger In a strange land DONE
+
+[ ] Saarnaaja 6
+[ ] Saarnaaja DONE

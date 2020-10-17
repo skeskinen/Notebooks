@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-15T23:05:49+03:00
+
+====== a ======
+Created torstai 15 lokakuu 2020
+
+Programming tools could be made to promote looking at programming problems from multiple perspectives.

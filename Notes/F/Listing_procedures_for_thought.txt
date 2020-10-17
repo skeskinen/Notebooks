@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-07T17:35:00+02:00
+
+====== Listing procedures for thought ======
+Created keskiviikko 07 lokakuu 2020
+
+Imagine there was a list of steps for all higher-order cognitive procedures. This list could be used as a teaching tool provided that you can describe them in enough detail and why some of them are better in some situations than others.
+
+Would the art of programming have something to give to such a list? Programmers should be able to improve these procedures somehow.

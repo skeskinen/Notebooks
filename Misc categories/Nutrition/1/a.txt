@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-15T09:45:12+03:00
+
+====== a ======
+Created Thursday 15 October 2020
+
+Test setups are hard because proper testing with researchers providing for everything would be expensive and dragonian.

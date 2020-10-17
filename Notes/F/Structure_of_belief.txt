@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-11T23:50:11+03:00
+
+====== Structure of belief ======
+Created Sunday 11 October 2020
+
+Beliefs are the parts of the universe that you think are constant.
+
+E.g. Jews think that laws of the society are constant.

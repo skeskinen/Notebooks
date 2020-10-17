@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-18T13:57:53+02:00
+
+====== Intuitive learning of skills ======
+Created Friday 18 September 2020
+
+Humans find it hard to describe skills in words. Complex motor movements or aesthetics are good examples.
+However experts in all fields spent great efforts to try to verbalize their field, typically with reasonable success. Expert languages assume that there is a lot of common context between speaker and listener, but they make communication possible. 
+Verbalizing enables this knowledge to be manipulated with all the mental tools for processing written words and thus enabled more complicated thoughts.
+
+For learning it is important to choose verbal analysis makes sense or not. Intuitive learning is often necessary.
+
+A large benefit of intuitive learning is that it's harder to learn something false. With verbal knowledge you usually make a lot of assumptions and then some implications or other mental tricks. But you might not realize that some part of the logic broke or introduced new complications. In this sense intuitive knowledge is more holistic; when you learn by doing, your actions are constantly validated agains the real world.
+

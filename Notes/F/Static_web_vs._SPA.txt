@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-27T23:02:21+02:00
+
+====== SSR vs. CSR ======
+Created Sunday 27 September 2020
+
+spa vs. traditional model
+
+Pros of CSR:
+* Easier to make interactive sites, especially for interactions that don't require new data from server.
+* Can begin to render the next page before the request completes.
+
+Cons of CSR:
+* You get sucked into Javascript world
+* Initial load is slow so you often want SSR anyway
+* SEO & SSR madness
+* Fighting against the browser's model of addresses, pages & history 
+* Typically leads to massive amounts of bloat
+* Complicates the page logic, can lead to more requests that causes MORE load for the server.
+
+Pro of SSR:
+* Fast & Simple
+* Works with Javascript blocked
+
+Cons of SSR:
+* Inefficiency around browser rendering the layout again and duplicate data
+* File server needs to actual processing for templates & stuff
+* Interactivity requires integrating Javascript into the pages
+

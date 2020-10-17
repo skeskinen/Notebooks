@@ -1,0 +1,6 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-07T21:25:24+02:00
+
+====== Todo ======
+Created Monday 07 September 2020

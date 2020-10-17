@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-14T22:37:21+03:00
+
+====== 1 ======
+Created Wednesday 14 October 2020
+
+In value trading you try to buy cheap and sell expensive.

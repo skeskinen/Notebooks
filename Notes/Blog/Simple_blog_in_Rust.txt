@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-28T12:43:54+02:00
+
+====== Simple blog in Rust ======
+Created Monday 28 September 2020
+
+* Wry write
+* Why make blog software yourself
+* Why traditional server side rendering with templates
+	* Also plan to do more feature rich apps with traditional techniques
+* Why in Rust
+	* Plan to do ZeroHTTPd
+* What features
+* What dependencies
+* Showcase #1: Metadata and templating
+* Showcase #2: Comments
+* Deployment & Load testing
+* Conclusion

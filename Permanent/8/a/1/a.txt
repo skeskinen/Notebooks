@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-16T17:14:38+03:00
+
+====== a ======
+Created perjantai 16 lokakuu 2020
+
+ To postmodernist all behaviour is emergent behaviour.

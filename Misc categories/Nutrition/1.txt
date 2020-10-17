@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-15T09:43:25+03:00
+
+====== 1 ======
+Created Thursday 15 October 2020
+
+Nutrition science as a field doesn't seem to produce much useful research.

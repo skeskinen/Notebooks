@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-10T22:18:05+02:00
+
+====== Language learning ======
+Created Thursday 10 September 2020
+
+Children learn languages effortlessly. Learning a language requires gaining familiarity with thousands of words. The upside is that each of these words is quite specific and not usually used in more than a few different contexts.
+
+Math and computer programming work differently in that there are fewer words but they are more versatile and usable in all sorts of situations.

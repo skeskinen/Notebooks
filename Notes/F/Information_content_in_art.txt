@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-04T20:52:58+02:00
+
+====== Information content in art ======
+Created Friday 04 September 2020
+
+Is the position of a bush in a Mario level knowledge?
+
+In the game code it occupies bits. And it was hand picked by an artist.
+But nobody would know/care if it moved a bit.
+
+Games tend to have a lot of this kind of "B-knowledge". Trivia.
+Most art does.
+Good artists minimize irrelevant parts.
+Games need to have worlds that are not 100% art. A lot of stuff just has to be consistent with the world to build immersion and continuity.
+
+Should gamedev tools separate important bits from trivia?
+Should coding tools separate important bits from trivia?

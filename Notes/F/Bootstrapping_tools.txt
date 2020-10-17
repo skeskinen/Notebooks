@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-11T20:24:28+03:00
+
+====== Bootstrapping tools ======
+Created Sunday 11 October 2020
+
+Nice feature of software is that software engineers are able to build their own tools. That is kind of rare feature in a profession. E.g. blacksmiths can do it since their tools are made of metal and they work metal. But it's kind of rare.

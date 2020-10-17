@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-15T22:03:17+03:00
+
+====== 7 ======
+Created Thursday 15 October 2020
+
+Good stories hide information. The author carefully decides what to show and what to hide.

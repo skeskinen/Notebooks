@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-11T20:17:23+03:00
+
+====== How to choose what to simplify ======
+Created Sunday 11 October 2020
+
+Choosing what to simplify is an artistic choice. The decision is always somewhat arbitrary.
+Should you use existing library? Implement your own? What is truly the simplest solution. Both can be seen as simpler in their own way.
+
+Simplification should:
+* Enhance the collective IQ of your organization
+* Make the system more resilient to (external) changes/pressure

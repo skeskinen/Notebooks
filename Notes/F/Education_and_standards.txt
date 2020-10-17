@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-01T12:41:56+02:00
+
+====== Education and standards ======
+Created torstai 01 lokakuu 2020
+
+Anything you do for education should be close to perfect. That means iteration. Everything should be in place.
+
+Similarly investigation into how a thing should be tought should be complete.

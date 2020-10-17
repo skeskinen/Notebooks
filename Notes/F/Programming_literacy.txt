@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-27T22:48:38+02:00
+
+====== Programming literacy ======
+Created Sunday 27 September 2020
+
+Programming is the art of procedures.
+
+All of elementary school math has more to do with programming than math. School math is just memorizing and executing procedures.
+
+Learning programming proper makes procedures into tangible things that can be reasoned about. It can be very powerful tool for meta thinking. Ideally children would learn to spot and fix bugs in their procedures and routines outside of programming.
+

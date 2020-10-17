@@ -1,0 +1,64 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-05T21:35:14+02:00
+
+====== 2020-10-05 ======
+Created maanantai 05 lokakuu 2020
+
+
+[ ] Come up with three core tenants for the blog
+
+[ ] Read fleeting notes
+[ ] Come up with contexts, at least 3
+[ ] Organize & rewrite 
+
+[*] Log requests
+[*] Comment data type with serde
+[*] Comments storage
+[*] Commenting ui
+[*] Comments admin ui
+[*] Comment proper storage with admin integration
+[*] Display comments
+[*] Recent comments ui
+[*] Stats page
+[*] Admin ui auth
+[*] Reply ui
+[*] Latests posts in sidebar
+
+[ ] Post: Blog in rust
+	[*] Outline
+	[ ] Write Three paragraphs
+	[ ] Write blog post draft 1
+	[ ] Outline part 2
+	[ ] Write blog post draft 2
+[ ] Post: Why write
+	[ ] Outline
+	[ ] Write Three paragraphs
+	[ ] Write blog post draft 1
+	[ ] Outline part 2
+	[ ] Write blog post draft 2
+[ ] Post 3
+	[ ] Outline
+	[ ] Write Three paragraphs
+	[ ] Write blog post draft 1
+	[ ] Outline part 2
+	[ ] Write blog post draft 2
+[ ] Post 4
+	[ ] Outline
+	[ ] Write Three paragraphs
+	[ ] Write blog post draft 1
+	[ ] Outline part 2
+	[ ] Write blog post draft 2
+
+[*] Printtaa ja lähetä M8 sulkemisilmoitus
+[ ] Sveitsi veroilmoitus
+[*] Kela muutto
+[ ] Varaa hammaslääkäri
+[ ] Varaa teemaistelu
+[*] Avaa Nordnet
+[ ] Tarkista onko muuta myytävää
+
+[*] Kokoa keittiökaappi
+[*] Kokoa pöytä
+[*] Kokoa seinäkaapi
+[*] Kokoa sebun tuoli

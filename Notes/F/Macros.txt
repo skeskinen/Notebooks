@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-12T12:46:17+02:00
+
+====== Macros ======
+Created Saturday 12 September 2020
+
+Macros allow you to implement some things that are typically in compilers by yourself. The cost is that usually your macros have worse usability or performance than language level features.
+
+Macros are just one tool among others. They are useful insofar they allow you to represent your ideas in code. 
+
+Custom DSLs are often cleaner solution than code filled with macros. You can implement your own interepreter with (hopefully) better errors and simple semantics.
+
+Macros have some interesting metaprogramming properties that would make Hofstadter proud, I think. But I'm not really sure how much expressive power they truly give to a language. How often do you do self references in your writing? Your next sentence is: Not very often.

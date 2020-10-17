@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-15T07:59:40+03:00
+
+====== d ======
+Created Thursday 15 October 2020
+
+Learning happens through the process of assimilating new knowledge into existing knowledge.

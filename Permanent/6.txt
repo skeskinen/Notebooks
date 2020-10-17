@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-15T07:38:50+03:00
+
+====== 6 ======
+Created Thursday 15 October 2020
+
+Professionals in each field spend a lot of effort on coming up with new language or representations for their domain knowledge.

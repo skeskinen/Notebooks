@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-05T11:24:35+02:00
+
+====== Outlining ======
+Created Saturday 05 September 2020
+
+Outlining is the only way to make sure your writing makes sense on multiple levels.
+
+An outline should be 10-15 sentenses. If your text is very long the outline can be hierarchical. In this case the top level should still have 10-15 items.
+
+Start with an outline and write your text to match it. After your draft is finished, make a new outline and copy the relevant parts from the previous draft to each heading. If some parts don't have a place in the new outline you can scrap those as irrelevant.

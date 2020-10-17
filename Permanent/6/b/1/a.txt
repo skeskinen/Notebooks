@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-15T10:01:45+03:00
+
+====== a ======
+Created Thursday 15 October 2020
+
+Essential things in a representation are those that can change, i.e. the parameters. Everything else is structure.

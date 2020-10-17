@@ -1,0 +1,39 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-14T20:59:52+02:00
+
+====== Exceptions ======
+Created Monday 14 September 2020
+
+Exceptions as replacement for gotos.
+
+Way of returning control flow.
+
+You could have and IDE that adds exception handlers for all the exceptions coming from given statement.
+You could drag&drop exceptions to different levels of trycatch and/or combine them into groups like in switch-case fallthrough.
+
+Exceptions don't need to be defined anywhere.
+It's enough to write
+```
+raise Hit_Leaf l
+```
+And outside context knows that Hit_Leaf is one of the possible control flow paths.
+
+Q: how to make the types match? Are two functions that can throw stuff of the same type?
+
+You also need to find a place for the exception parameters. The outside should be able to find the parameters even if the exception is polymorphic.
+
+```
+a : int -> int (Throws Foo int)
+b : int -> int (Throws Bar int)
+
+f = rand(1) ? a : b;
+
+f 4
+catch
+any_exception i -> i
+```
+Here you cannot know if the exception was Foo or Bar, but you can get the argument.
+Throws to foo and bar are both just goto/return to the any_exception handler.
+
+Q: How to implement jump tables?

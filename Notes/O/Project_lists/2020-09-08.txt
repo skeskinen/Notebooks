@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-08T09:56:50+02:00
+
+====== 2020-09-08 ======
+Created Tuesday 08 September 2020
+
+Take a break when project feels boring.
+//**Come back to it later.**//
+
+* Nand2tetris				2020-08-24
+* Bridge					2020-09-04
+* Knowledge management	2020-09-04
+
+* Handmade hero	2020-06-01
+* Software renderer	2020-06-01
+
+* Mindstorms
+* Patterns of thinking
+
+Skills:
+* Trading			2020-09-04
+* Wim Hof			2020-09-04
+* Physical exercise	2020-08-02
+* Practise speaking 	2020-09-04
+
+
+Dumpster / Lifestyle research:
+* Writing			2020-09-04
+* Buteyko breathing	2020-08-20
+* Diet				2020-08-15

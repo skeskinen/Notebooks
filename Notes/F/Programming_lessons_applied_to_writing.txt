@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-02T18:30:27+02:00
+
+====== Programming lessons applied to writing ======
+Created Wednesday 02 September 2020
+
+* DRY
+	* Good text doesn't repeat same ideas too much. There might be a central topic, but the at least the angle needs to change.
+	* Fiction writers make sure not to overuse any words.
+* Keep it simple, stupid. Best text is direct and light. Less is more.
+
+
+* Semantic compression
+	* Harder to see how it can be applied to writing.
+	* It would be extremely valuable if somehow possible.
+	* Achieving semantic compression might be the whole point of Zettelkasten.
+	* Requires: Finding similar thoughts, extracting them, leaving behind references.
+	* Identifying similarities from writing sounds really hard.
+	* References make reading hard. Zettelkasten writers collect their works into something readable.

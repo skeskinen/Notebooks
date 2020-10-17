@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-15T07:18:06+03:00
+
+====== 5 ======
+Created Thursday 15 October 2020
+
+Making changes to something that works reasonably well is risky. You often can't see the long term effects of your actions.

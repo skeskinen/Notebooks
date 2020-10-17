@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-15T23:36:37+03:00
+
+====== 1 ======
+Created torstai 15 lokakuu 2020
+
+A common pattern is that mistakes lead to more difficulty which leads to more mistakes. This can be seen in games like Tetris or Starcraft.

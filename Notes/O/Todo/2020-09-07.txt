@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-07T21:37:37+02:00
+
+====== 2020-09-07 ======
+Created Monday 07 September 2020
+
+[*] Read smarter note taking article
+[*] Read mindstorms chapter 1
+[*] Read mindstorms chapter 2
+[ ] Read & organize & rewrite fleeting notes
+
+[*] Install Ocaml
+[*] Read a file in Ocaml
+[*] Basic tokenizer
+[ ] Read nand2tetris docs on parser
+[ ] Make parser
+
+
+[ ] Install ReasonML 
+[ ] Make something that looks like a blog
+[ ] Buy bridge.gg
+
+
+[*] Order pixel 4a https://www.matkapuhelinfoorumi.fi/threads/google-store-keskustelu-kokemukset-tilaaminen-ulkomailta.130654/page-23#post-1059429142 https://store.google.com/de/product/pixel_4a?hl=de-DE
+[*] Currencyfair convert to CHF
+[ ] Buy flight tickets
+

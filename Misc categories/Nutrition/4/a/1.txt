@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-15T11:49:23+03:00
+
+====== 1 ======
+Created Thursday 15 October 2020
+
+Studies that try to determine health effects of anything are typically full of methodology errors.

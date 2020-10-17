@@ -1,0 +1,74 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-28T10:45:22+02:00
+
+====== 2020-09-28 ======
+Created Monday 28 September 2020
+
+[ ] Come up with three core tenants for the blog
+
+[ ] Read fleeting notes
+[ ] Come up with contexts, at least 3
+[ ] Organize & rewrite 
+
+[*] Read toml metadata
+[*] Separate layout template from content
+[*] Markdown support
+[*] Article page with markdown
+[*] Home page
+[*] About page
+[*] Tag list and count posts
+[*] Display date, updated date and tags in posts
+[ ] Log requests
+[ ] Comment data type with serde
+[ ] Comments storage
+[ ] Comments admin ui
+[ ] Comment proper storage with admin integration
+[ ] Comment ui
+[ ] Recent comments ui
+[ ] Stats page
+[*] Blog name
+[*] Logo, ouroboros?
+[ ] Latests posts in sidebar
+
+[ ] Post: Blog in rust
+	[*] Outline
+	[ ] Write Three paragraphs
+	[ ] Write blog post draft 1
+	[ ] Outline part 2
+	[ ] Write blog post draft 2
+[ ] Post: Why write
+	[ ] Outline
+	[ ] Write Three paragraphs
+	[ ] Write blog post draft 1
+	[ ] Outline part 2
+	[ ] Write blog post draft 2
+[ ] Post 3
+	[ ] Outline
+	[ ] Write Three paragraphs
+	[ ] Write blog post draft 1
+	[ ] Outline part 2
+	[ ] Write blog post draft 2
+[ ] Post 4
+	[ ] Outline
+	[ ] Write Three paragraphs
+	[ ] Write blog post draft 1
+	[ ] Outline part 2
+	[ ] Write blog post draft 2
+
+[*] Read Mindstorms ch 7
+[*] Read Mindstorms ch 8
+[*] Read Mindstorms epilogue & afterword
+
+
+[ ] M8 sulkeminen
+	[*] Valmistele paperit
+	[ ] Printtaa ja lähetä
+[ ] Sveitsi veroilmoitus
+[ ] Kela muutto
+[ ] Varaa hammaslääkäri
+[ ] Varaa teemaistelu
+[ ] Avaa Nordnet
+[*] Myy polar
+[ ] Tarkista onko muuta myytävää
+[*] Auto

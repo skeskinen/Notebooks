@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-21T21:44:10+02:00
+
+====== Programming ======
+Created Monday 21 September 2020
+
+
+[*] nand2tetris
+[*] rust blog
+[ ] nim lisp
+[ ] c zerohttpd
+[ ] ocaml nes emulator
+[ ] c Lord of the io_uring
+[ ] zig? Wirth compiler construction
+[ ] asm forth
+[ ] study go assembler
+[ ] ssloy series:
+	[ ] tiny raycaster
+	[ ] tiny renderer
+	[ ] tiny raytracer
+
+
+https://handmade.network/library/topic/1

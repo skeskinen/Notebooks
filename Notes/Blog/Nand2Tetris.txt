@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-28T12:07:57+02:00
+
+====== Nand2Tetris ======
+Created Monday 28 September 2020
+
+* Why holistic understanding matters
+* What the course teaches
+	* How to build a simplistic but complete computer system
+	* Give time estimates for different parts of the course
+* Course  material with slides, Coursera, book
+* Snake I made, show Hackenstein 3D
+	* I would not want to do more complicated game because tooling
+* Critique of tools. Educational system should do better.
+* Conclusion
+	* Provided a good framework for me to build my first compiler that goes from high level language all the way to assembly
+	* Sometimes too simplistic. The resulting computer wouldn't be very useful expect as a novelty.
+	* The complexity of the different parts of the system should be in balance. Now the compiler is doing all the lifting.
+	* It would be interesting to build a similar computer for real on an FPGA.

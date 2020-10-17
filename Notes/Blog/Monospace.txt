@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-12T20:43:33+03:00
+
+====== Monospace ======
+Created Monday 12 October 2020
+
+* Why simplicity matters
+	* Make everything as simple as possible but not simpler
+	* We live in VUCA world, simplicity is needed to balance things
+* Why monospace is simpler than proportional fonts
+	* Easy to render, easy to layout
+	* Clear rules and structure
+	* No possibility for complex kerning rules
+	* Bugs in font code, possible security risk
+* Why you need a high level goal before you can determine what is the simplest solution
+* What is the high level goal of the blog
+	* Serve as a medium for my writing
+	* Communicate ideas as clearly and simply as possible
+	* Communicate ideas with the most legible and understandable typeface
+* Defend readability of monospace fonts
+* Conclusion
+	* I'm not reimplementing readers browsers so it's kind pointless.
+	* But the sentiment matters.
+	* Medium is the message
+	* I stand proud behind my ideology

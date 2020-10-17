@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-15T22:50:34+03:00
+
+====== 1 ======
+Created torstai 15 lokakuu 2020
+
+Using multiple different tools forces you to see the problem from multiple angles. It's useful in mapping out the different associations to the problem.

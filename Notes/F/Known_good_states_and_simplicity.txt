@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-01T00:32:42+02:00
+
+====== Known good states and simplicity ======
+Created torstai 01 lokakuu 2020
+
+Game consoles behave the same way every time you start them.
+
+They can still be very customizable since you can change cartridges. The cartridges can even store save games.
+
+But the machine is always returned to known good state when you reset. 
+
+This is rather elegant. Why can't we make a smartphone or pc that has a known good state?
+
+Of course things like note taking would be harder. Web of notes is a very stateful thing.

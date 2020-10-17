@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-15T09:47:16+03:00
+
+====== 1 ======
+Created Thursday 15 October 2020
+
+Tests that are actually done rely on self reporting. But lots of people are in denial about their eating.

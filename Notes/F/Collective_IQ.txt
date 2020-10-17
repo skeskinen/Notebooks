@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-15T02:12:26+02:00
+
+====== Collective IQ ======
+Created Tuesday 15 September 2020
+
+How quickly and accurately an organization can respond to external stimulus.
+
+How efficiently an organization uses it's resources.
+
+Can the organization create sensible goals for itself? I.e can it be self-driven/proactive?

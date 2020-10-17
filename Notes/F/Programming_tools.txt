@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-24T12:46:20+02:00
+
+====== Programming tools ======
+Created Thursday 24 September 2020
+
+Visualize the data.
+
+Context = monad like thing. Allows "global" data and custom means of combination.
+Make context explicit.
+Tools for extending the existing context.
+
+Frame/structured editing.
+
+Alternate views for exploration and linear learning. Tools to make articles from existing code. Well crafted article mode should show the learning process of the author with simpler version/iterations.
+
+Custom allocation schemes built into the language. Visualization tools for these.
+
+
+

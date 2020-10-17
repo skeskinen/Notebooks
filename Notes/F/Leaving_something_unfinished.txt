@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-03T22:55:06+02:00
+
+====== Leaving something unfinished ======
+Created Thursday 03 September 2020
+
+Placeholder in thought.
+
+Mark something as something to be filled later. This will be important for anything complicated.
+
+This is important for getting something actually done.
+
+It will be easier to fill the holes later when you find something interesting or some other idea fills them naturally.

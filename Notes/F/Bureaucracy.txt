@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-05T23:22:04+02:00
+
+====== Bureaucracy ======
+Created Saturday 05 September 2020
+
+Bureaucratic procedures are built by people to solve problems that they had. So they are in designed in this sense. Most Bureucracies are fine as long as the tasks they face and the environment around them stays approximately the same.
+
+On a more holistic level, bureaucracies are not designed. No-one can predict how all the conflicts at different levels of organization will manifest themselves. Or what bandaid (hack) will be but in place to fix the immediate problem. 
+
+Once you have enough abstraction/indirection it is very easy not to notice that two goals are in direct conflict. Any programmer can tell you that this will happen even in surprisingly simple systems and even if you have only one designer. The advantage of being the lone designer is that you should have the ability to change the underlying assumptions behind the goals.
+

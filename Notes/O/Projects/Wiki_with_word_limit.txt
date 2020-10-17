@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-29T09:21:39+02:00
+
+====== Wiki with word limit ======
+Created Tuesday 29 September 2020
+
+Attain wisdom by limiting the amount of content.
+
+Some sort of democratic process for determeting how much to allocate to each subject.
+
+Market should decide.
+
+
+Also limit the size of the software.
+It should be part of the total wordcount. Including all dependencies.
+asm->Forth->high level (?)->wiki
+Environment: x86+linux, object: wiki software

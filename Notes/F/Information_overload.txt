@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-28T17:17:40+02:00
+
+====== Information overload ======
+Created Monday 28 September 2020
+
+Doug Engelbart:
+We need better tools to tackle "humanity's complex urgent problems"
+
+VUCA
+Volatile Uncertain Complex Ambiguous 
+No amount of information helps.
+
+Good visualization can help but sometimes it just adds even more information. The best feature of prose is brevity; the author acts as an information filter.

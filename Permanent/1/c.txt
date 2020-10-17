@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-14T22:50:27+03:00
+
+====== c ======
+Created Wednesday 14 October 2020
+
+Some knowledge is basic, some is combinations or reconfigurations of other pieces of knowledge.

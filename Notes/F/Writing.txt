@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-02T17:15:47+02:00
+
+====== Writing ======
+Created Wednesday 02 September 2020
+
+Thinking in writing.
+
+When programming you take for granted that the first version is not correct. Thinking is approximately as hard as programming, so it seems likely that the first version of your thinking is not correct. Thinking should be more like programming.
+
+When thinking there is bias to believe what you think is correct. This leads to you uncritically accepting the first idea that comes to mind since you don't want to be wrong. Thinking should involve more iterations. You should be able to revisit, re-evaluate and iterate on ideas. Writing enables some mutability for thoughts but it's not perfect since the I/O is quite slow.

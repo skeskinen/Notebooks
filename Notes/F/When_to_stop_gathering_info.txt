@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-15T02:13:40+02:00
+
+====== When to stop gathering info ======
+Created Tuesday 15 September 2020
+
+On every problem there is some information tipping point where additional information becomes useless/harmfull.
+
+Recognizing and accepting these tipping points requires a leap of faith; you can't be certain about the future. The org must be ready to accept the ambiguity.
+
+Agile organizations should be good at spotting these tipping points and cutting off the information gathering process.

@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-11T21:47:22+02:00
+
+====== Books ======
+Created Friday 11 September 2020
+
+[*] Mindstorms
+
+[ ] Stranger in a strange land
+[ ] Saarnaajan kirja
+[ ] Meditations
+[ ] Maps of Meaning
+[ ] Tao te ching
+[ ] Analects
+[ ] Thinking Forth
+[ ] SICP
+[ ] Crime and Punishment
+[ ] Compiler Construction, Wirth
+[ ] The Society of Mind
+[ ] Unix HATERS Handbook
+[ ] Polgar - Raise a genius!
+[ ] The Gay Science
+[ ] Täällä pohjantähden alla
+[ ] Leviathan
+[ ] Mythical Man Month
+[ ] Computing Machinery and Intelligence
+[ ] Sociological Imagination
+[ ] Metamodernist Manifesto

@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-15T07:25:26+03:00
+
+====== 1 ======
+Created Thursday 15 October 2020
+
+Solving problems costs added complexity. Over time the added complexity will become more problematic than the problems that were solved.

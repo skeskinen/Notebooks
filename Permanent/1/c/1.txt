@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-14T22:51:56+03:00
+
+====== 1 ======
+Created Wednesday 14 October 2020
+
+More complicated knowledge requires that mind has managing agents that organize the lower level agents. Manager agents need to do prioritization, filtering, sorting and resolve conflicts caused by simpler agents.

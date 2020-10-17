@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-29T18:09:12+02:00
+
+====== Structure and representation ======
+Created Tuesday 29 September 2020
+
+Only structured knowledge can be represented cleanly and efficiently.
+
+For unstructured knowledge the best you can do is a book.
+Which is fine but books actually have a lot of structure, it's just not visible in the end product.
+
+Unstructured knowledge becomes untagled mess that makes reading very hard.

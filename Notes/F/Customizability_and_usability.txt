@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-01T00:26:58+02:00
+
+====== Customizability and usability ======
+Created torstai 01 lokakuu 2020
+
+One of the problems of software is that people want to use software to solve any and all problems. This is of course impossible, but it doesn't stop people from trying.
+
+System like C64 is both customizable and simple. But it demands more from the operator. It lacks some most state keeping mechanisms. Lack of state might even be the key to the simplicity.
+
+Apple products are limited in customizability. But they were elegant and effective. "In MacOS everything just works"

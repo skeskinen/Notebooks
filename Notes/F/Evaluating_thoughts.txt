@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-02T17:28:39+02:00
+
+====== Evaluating thoughts ======
+Created Wednesday 02 September 2020
+
+In programming there is a computer that tells you that your program is (or isn't) correct. The computer is quite objective in its judgement. And you can measure things like speed or size to further validate that the program is good. Typically it is extremely hard to test the quality of your thoughts in any objective way. You need a friend or an audience.
+
+Can an audience work like a computer evaluating a program? I think it is hard. Good quality feedback is hard to get and your audience comments are biased based on their opinion of you. Content creators also have to worry about things like popularity & monetization. It could also be that your idea was good but the delivery wasn't or that the medium wasn't suitable for that idea.
+
+Also people are often wrong. What good is evaluator that can be wrong? Try to for example get a good evaluation for any political idea and all your feedback will be pretty much worthless.
+
+Another issue is that comments are not ideal feedback mechanism. Teacher marking fixes to an essay can be much more direct and effective than if they had to make comments that are separated from the text. You can do direct comments like this e.g. in Google Docs but opening your docs to public would be a mess. I imagine these issues could be solved in somekind of wiki for thoughts.

@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-15T07:53:49+03:00
+
+====== a ======
+Created Thursday 15 October 2020
+
+The more specific the knowledge is the more esoteric the representations become.

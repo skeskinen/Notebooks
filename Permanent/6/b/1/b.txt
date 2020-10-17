@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-15T20:56:04+03:00
+
+====== b ======
+Created Thursday 15 October 2020
+
+If the knowledge has multiple use cases then the representation needs to have parameters for all of them. As the usage gets richer the representation needs to become more general.

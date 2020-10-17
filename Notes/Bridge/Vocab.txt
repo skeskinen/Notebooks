@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-04T14:44:55+02:00
+
+====== Vocab ======
+Created Friday 04 September 2020
+
+Platform - Bridge
+Tutors	- People providing services.
+Clients	- People buying services.
+Service 	- Consulting provided by a tutor, bought by a client.
+Customer - Tutors + Clients. Everyone registered to the platform.

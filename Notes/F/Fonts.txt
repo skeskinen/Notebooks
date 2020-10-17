@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-10T10:29:48+02:00
+
+====== Fonts ======
+Created Thursday 10 September 2020
+
+On conceptual level I prefer monospace fonts. The simplicity has to be worth a lot.
+
+In knowledge editor you still need to have different fonts for different purposes. But I they can all be monospaced.
+
+Liberation  for text
+Inconsolata for code
+etc.
+
+It might make sense to make sure that all the fonts from different families are the same width so that they can be laid out and scaled together. But maybe that is too limiting.

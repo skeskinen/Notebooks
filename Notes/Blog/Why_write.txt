@@ -1,0 +1,46 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-28T12:38:05+02:00
+
+====== Why write ======
+Created Monday 28 September 2020
+
+Zettelkasten
+
+The Second Brain
+https://www.youtube.com/watch?v=OP3dA2GcAh8
+https://fortelabs.co/blog/how-to-take-smart-notes/
+
+Engelbart and knowledge database. Ted Nelson.
+Writing makes things tangible and editable. Prerequisite for iteration and awesome things.
+
+https://news.ycombinator.com/item?id=22341518
+https://fortelabs.co/blog/how-to-take-smart-notes/
+
+Jordan Peterson https://www.youtube.com/results?search_query=peterson+why+write
+
+Evaluator for ideas
+
+
+Write for yourself.
+You are the best judge of what interests you. Those things should interest you in the future as well. And you have probably forgotten all about it.
+
+--------------------
+
+
+* What does the humanity need?
+	* Clarity, simplicity
+* What is required to reach clarity
+	* Wisdom, thinking
+* What is writing?
+	* Writing is thinking
+	* Without writing you can't know if your thoughts are worth anything
+* How to write?
+	* Take notes
+	* Explore the space of things that interest you
+	* Formulate arguments
+* Conclusion
+	* I feel I have to try to do my part in making the world clearer.
+	* The best way to do that is to practice writing.
+	* What I plan to write
+

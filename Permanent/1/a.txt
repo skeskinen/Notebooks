@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-14T20:07:34+03:00
+
+====== a ======
+Created Wednesday 14 October 2020
+
+All learning is relearning. You never encounter the things you know in the same context where you learned them originally. You constantly need to examine them in a new context.

@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-15T11:50:40+03:00
+
+====== a ======
+Created Thursday 15 October 2020
+
+The conclusions of the research are made into policy too early. And often the policies stay even after the science has been discredited.

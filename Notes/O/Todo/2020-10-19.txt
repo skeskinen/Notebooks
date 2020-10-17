@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-13T11:10:01+03:00
+
+====== 2020-10-19 ======
+Created Tuesday 13 October 2020
+
+[ ] Implement blog archive page
+[ ] Content for blog about page

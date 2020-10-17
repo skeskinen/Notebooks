@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-28T20:38:33+02:00
+
+====== Wisdom ======
+Created Monday 28 September 2020
+
+To attain knowledge, add things every day. To attain wisdom, remove things every day.
+— Lao Tzu
+
+A lot of people are adding knowledge.
+Who is going to take it away.
+
+
+Wiki with global word limit.

@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-07T21:41:22+02:00
+
+====== Envision visual editor ======
+Created Monday 07 September 2020
+
+http://pm.inf.ethz.ch/publications/getpdf.php?bibname=Own&id=Asenov17.pdf
+

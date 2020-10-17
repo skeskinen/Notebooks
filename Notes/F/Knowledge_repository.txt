@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-12T14:00:46+02:00
+
+====== Knowledge repository ======
+Created Saturday 12 September 2020
+
+Is a knowledge repository cabable of enhancing collective IQ an "educational tool", a "professional tool" or a "self made tool"?
+
+It is educational in the sense that it has to facilitate efficient learning and relearning. Like a good technical documentation.
+
+It is professional in the sense that the system must support collaboration between multiple users that will have various goals.
+
+It should still strife for the benefits of self made tool. It should be customized to each organization. It should be integrated into everything the org does. It needs to be modifiable as the org modifies itself. 

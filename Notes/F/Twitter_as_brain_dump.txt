@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-04T14:03:09+02:00
+
+====== Twitter as brain dump ======
+Created Friday 04 September 2020
+
+Writing for the sake of writing.
+Is there value in text that is never read? This goes back to writing as a thinking tool.
+The threshold for sharing something is quite high. Most people don't share random thoughts. Maybe twitter works like this. But you need a decent following before anyone will seriously encage with your text.
+Twitter is not really designed for developing thougts. But it is a platform with low friction thought sharing. 

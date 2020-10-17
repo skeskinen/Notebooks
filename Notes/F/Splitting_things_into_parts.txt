@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-18T11:50:35+02:00
+
+====== Splitting things into parts ======
+Created Friday 18 September 2020
+
+Splitting things into parts is one of the fundamental ways to make something understandable.
+It can be used as a learning technique; simple parts can be learned in isolation and collected into a whole.
+
+
+There are multiple different ways to split any problem. Some of them make the whole simpler and others make it more complicated.
+
+Ways of how splitting can make problem simpler:
+* Pieces can be verified independently.
+* Pieces can be reused.
+* There is good separation between pieces. They make sense as categories.
+
+Ways of how splitting can make problem more complicated:
+* Pieces are not simple. E.g. they may have complicated interdependencies.
+* Pieces can require complicated glue/runtime to work together.

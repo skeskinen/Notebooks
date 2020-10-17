@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-15T23:33:58+03:00
+
+====== a ======
+Created torstai 15 lokakuu 2020
+
+In a good design players are the root of their own problems. This can be achieved either with conflicting goals and incentives or making the execution hard enough that players mess up.

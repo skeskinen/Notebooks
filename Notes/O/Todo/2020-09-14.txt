@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-14T09:24:11+02:00
+
+====== 2020-09-14 ======
+Created Monday 14 September 2020
+
+[*] Vastaa Sebulle
+[*] Sebun sopimus
+[*] Tilaa pasuunan huolto
+
+[ ] Read & organize & rewrite fleeting notes
+
+[*] Read Ocaml manual
+[*] Read nand2tetris docs on parser
+[*] Make parser
+
+[ ] Install ReasonML 
+[ ] Make something that looks like a blog
+
+[*] Read Minstorms ch 3
+[*] Read Minstorms ch 4
+
+[*] Read https://people.inf.ethz.ch/wirth/Articles/LeanSoftware.pdf
+[ ] Read https://people.inf.ethz.ch/wirth/Articles/GoodIdeas_origFig.pdf
+

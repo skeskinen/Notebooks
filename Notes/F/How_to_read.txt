@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-05T11:17:50+02:00
+
+====== How to read ======
+Created Saturday 05 September 2020
+
+The reason we read is to understand things and to get new ideas.
+
+A good way to make sure you are actually processing what you read is to imagine you are having a dialog with the writer. Pause after every paragraph or page and try to explain to the writer what you think he meant. If you feel the explanation has value to you then make a note of it and make the thought your own.

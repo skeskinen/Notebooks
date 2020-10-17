@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-15T21:06:06+03:00
+
+====== a ======
+Created Thursday 15 October 2020
+
+The cost of additional parameters is more tolerable if the parameters are unlikely to change in the future.

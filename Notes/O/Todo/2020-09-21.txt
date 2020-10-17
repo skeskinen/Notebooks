@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-21T09:17:50+02:00
+
+====== 2020-09-21 ======
+Created Monday 21 September 2020
+
+[*] Make SimPL implementation
+
+[*] Finish nand2tetris compiler
+[*] Finish the whole nand2tetris
+
+[*] Look through options for ML -> React Javascript. All shit.
+[*] Make app with actix & askama
+[*] Add css
+[*] Make something that looks like a blog
+[*] Static files
+[ ] Markdown support
+
+[*] Read https://people.inf.ethz.ch/wirth/Articles/GoodIdeas_origFig.pdf
+
+[ ] Read & organize & rewrite fleeting notes
+
+[*] Read Mindstorms ch 5
+[*] Read Mindstorms ch 6

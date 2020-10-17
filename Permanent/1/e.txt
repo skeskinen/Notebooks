@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-15T09:31:06+03:00
+
+====== e ======
+Created Thursday 15 October 2020
+
+Believes are closely related to knowledge. Believes also have prerequisite knowledge and believes.

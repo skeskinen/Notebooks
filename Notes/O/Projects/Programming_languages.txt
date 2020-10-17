@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-07T21:41:53+02:00
+
+====== Programming languages ======
+Created Monday 07 September 2020
+
+https://bernsteinbear.com/blog/compiling-a-lisp-0/
+
+Collapse OS - Why Forth? https://news.ycombinator.com/item?id=23450287
+
+ML with low level control (ATS lang)
+
+Synthesis Os, code generation
+
+http://wiki.c2.com/?RethinkingCompilerDesign
