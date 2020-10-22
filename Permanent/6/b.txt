@@ -5,4 +5,4 @@ Creation-Date: 2020-10-15T09:58:07+03:00
 ====== b ======
 Created Thursday 15 October 2020
 
-Representations that fit better are simpler and feel natural.
+Representations that fit the problem well are simple and feel natural.

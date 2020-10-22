@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-17T10:01:28+03:00
+
+====== 14 ======
+Created lauantai 17 lokakuu 2020
+
+If an AI would give humanity the perfect plan for solving all problems, but the steps required were uncomfortable, would we implement that plan?

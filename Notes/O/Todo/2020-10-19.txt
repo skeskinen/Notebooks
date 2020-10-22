@@ -5,5 +5,53 @@ Creation-Date: 2020-10-13T11:10:01+03:00
 ====== 2020-10-19 ======
 Created Tuesday 13 October 2020
 
+Lots of task backlog from the previous week :(
+Creating permanent notes is hard.
+
+[ ] Finish note backlog
+
+[ ] Cleanup blog code
+
 [ ] Implement blog archive page
 [ ] Content for blog about page
+
+[ ] Blog in rust
+	[*] Outline
+	[ ] Write Three paragraphs
+	[ ] Write blog post draft 1
+	[ ] Outline part 2
+	[ ] Write blog post draft 2
+[ ] Why write
+	[*] Outline
+	[ ] Write Three paragraphs
+	[ ] Write blog post draft 1
+	[ ] Outline part 2
+	[ ] Write blog post draft 2
+[ ] Mindstorms review
+	[*] Outline
+	[ ] Write Three paragraphs
+	[ ] Write blog post draft 1
+	[ ] Outline part 2
+	[ ] Write blog post draft 2
+[ ] Monospace
+	[*] Outline
+	[ ] Write Three paragraphs
+	[ ] Write blog post draft 1
+	[ ] Outline part 2
+	[ ] Write blog post draft 2
+[ ] Nand2Tetris
+	[*] Outline
+	[ ] Write Three paragraphs
+	[ ] Write blog post draft 1
+	[ ] Outline part 2
+	[ ] Write blog post draft 2
+
+[ ] Sveitsi veroilmoitus
+
+[ ] Stranger In a strange land 25
+[ ] Stranger In a strange land 28
+[ ] Stranger In a strange land 31
+[ ] Stranger In a strange land 33
+[ ] Stranger In a strange land 36
+[ ] Stranger In a strange land DONE
+

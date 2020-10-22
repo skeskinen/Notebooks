@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-20T15:50:10+03:00
+
+====== c ======
+Created tiistai 20 lokakuu 2020
+
+Hard things e.g. through habits.

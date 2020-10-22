@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-18T13:47:09+03:00
+
+====== a ======
+Created sunnuntai 18 lokakuu 2020
+
+There is evidence that programmers used to do great things in short periods of time.

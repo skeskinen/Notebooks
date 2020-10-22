@@ -1,0 +1,37 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-18T15:39:02+03:00
+
+====== 2020-10-18 ======
+Created sunnuntai 18 lokakuu 2020
+
+Women are better at knowing what society needs from them. Neurologically they are better better equiped for outside-the-box thinking.
+
+In history there was a problem x that lead to solution y. Later the world changed a lot in many ways.
+Do we remember what x was? Should we try removing y and make sure it is still a problem?
+There should be a process for verifying that old laws are still relevant. Too many laws and regulations leads to collapse.
+
+Local improvements in a corner, someone is undermining the base of the building.
+Locally there have been great improvements in the productivity of software engineers.
+
+
+Science works slower these days because the barrier for publishing has increased. New software is released slower because barrier for adoptation has increased.
+Software has more requirements than before. Similar to small banks, this means that it is harder for small software to exist.
+These days software projects need to spend more on marketing. There is more overhead from communicating.
+
+Internal requirements and external requirements. 
+Internal requirements: restrictions that we invent for ourselves.
+If internal requirements increase faster than our capabilities increase, the ability to meet external requirements decreases.
+
+IT eats more and more of the world. Similar to healthcare. Optimal IT would be almost nonexistent.
+Productivity increases are leading in this direction? But IT as a whole is increasing.
+
+
+Increase in productivity: moving from bytes to assembly to high level languages.
+
+Improved standards have made it more feasible to work on lower level. Porting is less of a problem since all platforms are similar. Things like Vulkan have shown that lower level standards can be successful.
+
+
+People have a model of the world in their head. They use that model to approximate things like their fitness function, social statuts gain, justice or good and evil. These models are naturally completely subjective which means that conclusions drawn from the models are also subjective. But since the models are fairly advanced representations of the world they will have a lot of overlap between people. This is the base on which common morals, laws etc. have to be built.
+These models are used to determine what is good for the society in the model of growing up. The models are inaccurate so different people can end up on different sides in politic arguments etc.
+People have identities and loyalty for multiple societies. All the way from self, family, town, country, continent, humanity, animal and finally to a particle in the universe.

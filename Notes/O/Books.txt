@@ -9,12 +9,17 @@ Created Friday 11 September 2020
 
 [ ] Stranger in a strange land
 [ ] Saarnaajan kirja
-[ ] Meditations
-[ ] Maps of Meaning
 [ ] Tao te ching
+[ ] SICP
+[ ] Island
+[ ] Notes from the underground
+[ ] Meditations
+[ ] History of Western Philosophy
+[ ] Wisdom of the West
+[ ] Notes from the underground
+[ ] Maps of Meaning
 [ ] Analects
 [ ] Thinking Forth
-[ ] SICP
 [ ] Crime and Punishment
 [ ] Compiler Construction, Wirth
 [ ] The Society of Mind
@@ -27,3 +32,5 @@ Created Friday 11 September 2020
 [ ] Computing Machinery and Intelligence
 [ ] Sociological Imagination
 [ ] Metamodernist Manifesto
+[ ] Digital Design and Computer Architecture
+[ ] Seitsemän veljestä

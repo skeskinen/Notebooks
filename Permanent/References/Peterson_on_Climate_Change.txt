@@ -2,10 +2,10 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2020-10-16T14:15:10+03:00
 
-====== Jordan Peterson on Climate Change ======
+====== Peterson on Climate Change ======
 Created perjantai 16 lokakuu 2020
 
-
+[[13]]
 
 There will not be unified climate change action since nobody knows what to do. There are too many ideas, all of them unproven and some of them failed already. It is all too vague.
 Everyone has their favourite approach. The opinions are too strong and decisions too political. These conditions make unified action near impossible.

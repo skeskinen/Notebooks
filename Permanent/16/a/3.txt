@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-22T20:10:57+03:00
+
+====== 3 ======
+Created torstai 22 lokakuu 2020
+
+Early Id games like Keen or Doom were developed very quickly.

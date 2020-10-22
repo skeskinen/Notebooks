@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-18T13:49:28+03:00
+
+====== a ======
+Created sunnuntai 18 lokakuu 2020
+
+Many modern indie devs could publish just as much as Sid or much more if the standards for game quality were similar.

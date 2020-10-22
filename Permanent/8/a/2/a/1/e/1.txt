@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-22T20:15:16+03:00
+
+====== 1 ======
+Created torstai 22 lokakuu 2020
+
+Roles are very helpful; they give things to do in the short term and something to strive for.

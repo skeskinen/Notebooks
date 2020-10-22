@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-21T12:27:28+03:00
+
+====== a ======
+Created keskiviikko 21 lokakuu 2020
+
+Monasteries functioned as the preservers of knowledge in the dark ages.

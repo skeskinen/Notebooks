@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-22T21:04:12+03:00
+
+====== d ======
+Created torstai 22 lokakuu 2020
+
+There needs to be a system for switching roles if the previous one becomes unbearable.

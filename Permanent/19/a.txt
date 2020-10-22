@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-19T15:00:40+03:00
+
+====== a ======
+Created maanantai 19 lokakuu 2020
+
+Gamification was invented in ancient jewish societies in the form of giving point values to different spiritual actions. 

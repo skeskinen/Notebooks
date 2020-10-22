@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-18T13:19:02+03:00
+
+====== b ======
+Created sunnuntai 18 lokakuu 2020
+
+Some structure is actively bad. E.g. code dependencies can bloat the binary size.

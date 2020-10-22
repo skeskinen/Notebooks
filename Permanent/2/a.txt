@@ -5,4 +5,4 @@ Creation-Date: 2020-10-14T22:09:19+03:00
 ====== a ======
 Created Wednesday 14 October 2020
 
-Iterating on text is usually done in the context of improving drafts. The goal is improving clarity and other progress is accidental.
+Iterating text is usually done in the context of improving drafts. The concepts will evolve but it's not the primary goal.

@@ -5,4 +5,4 @@ Creation-Date: 2020-10-14T22:08:08+03:00
 ====== 2 ======
 Created Wednesday 14 October 2020
 
-Writing and note taking facilitates iteration on thoughts.
+Writing and note taking facilitates iteration of thoughts.

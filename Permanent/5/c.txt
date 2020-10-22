@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-19T07:34:37+03:00
+
+====== c ======
+Created maanantai 19 lokakuu 2020
+
+You shouldn't be afraid of changing things. Nothing is ever finished. Existing structure isn't sacred.

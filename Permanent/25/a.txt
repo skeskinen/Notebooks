@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-22T20:05:56+03:00
+
+====== a ======
+Created torstai 22 lokakuu 2020
+
+If everything is simple and easy, people will crave difficulty and suffering. And they will find ways to get it.

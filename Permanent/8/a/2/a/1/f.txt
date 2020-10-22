@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-22T20:21:54+03:00
+
+====== f ======
+Created torstai 22 lokakuu 2020
+
+If your values come from the outside and you reject those values it causes problems.

@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-22T19:47:36+03:00
+
+====== C ======
+Created torstai 22 lokakuu 2020
+
+Complexity, Compounding costs [[6:b:1:b:1]] [[5:b:1:b]]
+

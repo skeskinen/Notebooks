@@ -5,8 +5,7 @@ Creation-Date: 2020-10-12T09:15:44+03:00
 ====== 2020-10-12 ======
 Created Monday 12 October 2020
 
-[ ] Read fleeting notes
-[ ] Organize & rewrite 
+[ ] Finish note backlog
 
 [ ] Cleanup blog code
 
@@ -51,5 +50,3 @@ Created Monday 12 October 2020
 [ ] Stranger In a strange land 36
 [ ] Stranger In a strange land DONE
 
-[ ] Saarnaaja 6
-[ ] Saarnaaja DONE

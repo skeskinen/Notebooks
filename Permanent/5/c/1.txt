@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-19T07:40:13+03:00
+
+====== 1 ======
+Created maanantai 19 lokakuu 2020
+
+Usually things get back to a pretty good state after the disruption caused by the adaption has passed.

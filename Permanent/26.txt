@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-22T21:06:31+03:00
+
+====== 26 ======
+Created torstai 22 lokakuu 2020
+
+Cognitive biases lie to us about the world in ways that used to be beneficial for survival.

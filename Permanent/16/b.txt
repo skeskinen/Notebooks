@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-19T14:56:15+03:00
+
+====== b ======
+Created maanantai 19 lokakuu 2020
+
+There are more internal requirements than before. You need to comply with more complicated standards and even MVPs have bunch of expected extra features.

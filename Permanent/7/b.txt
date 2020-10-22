@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-19T14:26:01+03:00
+
+====== b ======
+Created maanantai 19 lokakuu 2020
+
+How is this different from encaptulation in programming? Why do I feel like encaptulation is not such a great idea but agree that stories should hide information?

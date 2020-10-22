@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-20T19:05:37+03:00
+
+====== a ======
+Created tiistai 20 lokakuu 2020
+
+Specialization is investing to a particular set of skills. In unpredictable environments it's better to be a generalist.

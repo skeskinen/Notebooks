@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-18T13:25:06+03:00
+
+====== a ======
+Created sunnuntai 18 lokakuu 2020
+
+Adding structure doesn't necessarily make the flow harder to follow. Sometimes it does the opposite. A dam or a blockade can steer you in the right direction.

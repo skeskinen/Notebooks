@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-18T13:19:58+03:00
+
+====== a ======
+Created sunnuntai 18 lokakuu 2020
+
+If the added structure doesn't fit the problem then your solution will have to fight against the structure.

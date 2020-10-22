@@ -5,4 +5,4 @@ Creation-Date: 2020-10-15T23:06:32+03:00
 ====== 1 ======
 Created torstai 15 lokakuu 2020
 
-Rearranging your code into a linearly readable story form forces you to think about the order of introduction for code concepts. Typically new edits are squished between existing related code.
+Rearranging your code into a linearly readable story form forces you to think about the order of introduction for code concepts. New edits need to find their place between existing related code.

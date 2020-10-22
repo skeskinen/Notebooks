@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-19T15:00:23+03:00
+
+====== 19 ======
+Created maanantai 19 lokakuu 2020
+
+Everything old is new again.
