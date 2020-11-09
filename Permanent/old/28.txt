@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-22T22:13:29+03:00
+
+====== 28 ======
+Created torstai 22 lokakuu 2020
+
+Optimal way to program is to make a software that the environment needs.
+
+[[17]]

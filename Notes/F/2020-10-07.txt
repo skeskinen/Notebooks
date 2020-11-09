@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-07T17:35:00+02:00
+
+====== 2020-10-07 ======
+Created keskiviikko 07 lokakuu 2020
+
+====== Listing procedures for thought ======
+
+Imagine there was a list of steps for all higher-order cognitive procedures. This list could be used as a teaching tool provided that you can describe them in enough detail and why some of them are better in some situations than others.
+
+Would the art of programming have something to give to such a list? Programmers should be able to improve these procedures somehow.
+
+====== What makes programming learnable ======
+Created keskiviikko 07 lokakuu 2020
+
+Genetic epistemology
+
+What is the shape of programming? What are the parts that can be learned separately and in what order are they learned?
+
+What makes simulating state in yuor head possible? How can you imagine the shape space?
+
+What makes you see the shape of the problem? What are the parts/steps of modelling a problem? 

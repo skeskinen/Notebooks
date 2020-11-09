@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-10T10:29:48+02:00
+
+====== 2020-09-10 ======
+Created Thursday 10 September 2020
+
+On conceptual level I prefer monospace fonts. The simplicity has to be worth a lot.
+
+In knowledge editor you still need to have different fonts for different purposes. But I they can all be monospaced.
+
+Liberation  for text
+Inconsolata for code
+etc.
+
+It might make sense to make sure that all the fonts from different families are the same width so that they can be laid out and scaled together. But maybe that is too limiting.
+
+====== Frame based editing ======
+Created Thursday 10 September 2020
+
+https://www.greenfoot.org/frames/
+
+Another structured editor.
+Since this is educational purposes, the focus is on reducing syntax errors and ease of learning.
+They have their own language which looks reasonable but is full of Java madness.
+
+True test for structured editor is how easy it is to do larger edits. Since this is educational project that isn't the main focus. The editability is still much much better than Scratch.
+Readability-wise the frames look pretty good. Color coding, light syntax, auto indent and spacing etc.
+
+I'm unsure about sans serif. I think there is practical value in the simplicity of monospace and enables some advanced edits such as block edit to work a lot better. Possible reading speed benefits and aesthetic improvements of other fonts need to be quite considerable for this tradeoff to be worth it.
+
+
+====== Language learning ======
+Created Thursday 10 September 2020
+
+Children learn languages effortlessly. Learning a language requires gaining familiarity with thousands of words. The upside is that each of these words is quite specific and not usually used in more than a few different contexts.
+
+Math and computer programming work differently in that there are fewer words but they are more versatile and usable in all sorts of situations.

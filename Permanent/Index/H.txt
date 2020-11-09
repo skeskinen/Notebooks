@@ -1,9 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2020-10-16T22:30:52+03:00
-
-====== H ======
-Created perjantai 16 lokakuu 2020
-
-Hero's Journey [[17:a]] [[18:b]]
-Hierarchy [[1]]

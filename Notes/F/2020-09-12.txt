@@ -1,0 +1,95 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-12T16:50:28+02:00
+
+====== 2020-09-12 ======
+Created Saturday 12 September 2020
+
+Good documentation has three parts:
+* Tutorials
+* Descriptions of major topics and concepts
+* Reference
+
+The main purpose of documentation is to teach. You'll need to think about the starting level and development of the reader.
+
+You should have an idea of what your readers want to do. Then come up with a plan of how to teach the reader to do that thing.
+
+You should also:
+* Link what you explain to other things you explain and how they combine.
+* Tell why the things you teach are useful and what can be built on top of them.
+* Explain how the material will improve the understanding of the reader.
+
+====== Programming ======
+Created Saturday 12 September 2020
+
+Programming is the art of encoding operational knowledge into formal language.
+
+Programming as an engineering discipline is about squeezing as much utility from a computer as possible. Utility includes performance, reliability and usability.
+
+Programming is the art of procedures.
+
+
+====== Knowledge repository ======
+
+Is a knowledge repository cabable of enhancing collective IQ an "educational tool", a "professional tool" or a "self made tool"?
+
+It is educational in the sense that it has to facilitate efficient learning and relearning. Like a good technical documentation.
+
+It is professional in the sense that the system must support collaboration between multiple users that will have various goals.
+
+It should still strife for the benefits of self made tool. It should be customized to each organization. It should be integrated into everything the org does. It needs to be modifiable as the org modifies itself. 
+
+====== Macros ======
+Created Saturday 12 September 2020
+
+Macros allow you to implement some things that are typically in compilers by yourself. The cost is that usually your macros have worse usability or performance than language level features.
+
+Macros are just one tool among others. They are useful insofar they allow you to represent your ideas in code. 
+
+Custom DSLs are often cleaner solution than code filled with macros. You can implement your own interepreter with (hopefully) better errors and simple semantics.
+
+Macros have some interesting metaprogramming properties that would make Hofstadter proud, I think. But I'm not really sure how much expressive power they truly give to a language. How often do you do self references in your writing? Your next sentence is: Not very often.
+
+====== Making own tools ======
+Created Saturday 12 September 2020
+
+The biggest benefit of making your own tools is that you know how to repair, extend and modify them.
+
+Usually the tools that you made yourself are not "professional quality". Most typically they are not as versatile as the off the shelf options. This can also be a positive thing since that means they can be simpler.
+
+Beginners cannot be expected to make their own tools since they wouldn't know where to start.
+
+It's interesting to think about differences in:
+* Educational tools
+	* Limited
+	* Gives a clear direction
+	* Artificial
+* Professional tools
+	* Very effective
+	* Versatile
+	* Complex
+	* Often expensive
+* Self-made tools
+	* Most simple
+	* Most effective
+
+
+You wouldn't expect a carpenter to make their own drills or nails. But they do make their own mallets.
+Blacksmiths often make a lot of custom tools.
+
+====== Telos ======
+Created Saturday 12 September 2020
+
+Telos is Aristotle's concept of purpose or goal. According to aristotle all objects have a proper function. To thrive means to act accordingly to your proper function. Usually the proper functioning means using you capabilities to their fullest. A happy cat is one that functions like a cat; jumping, stalking, climbing, etc.
+
+Aristotle thought that what separates humans from animals is reason and use of language.
+And for sure, these are things that humans are pretty good at compared to most other animals.
+
+But I'd add that humans are made to build and use tools. 
+
+====== Tools for professionals ======
+Created Saturday 12 September 2020
+
+Tools for professionals don't need to be familiar or accessable. They need to be versatile and efficient when used properly.
+
+Professional tools need not to be the most popular or available ones, although reduction in cost is always welcome. 

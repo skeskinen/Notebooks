@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-14T20:06:07+03:00
+
+====== 1 ======
+Created Wednesday 14 October 2020
+
+All knowledge is built on top of existing knowledge. Things you know form a hierarchy of prerequisites and lateral associations.
+
+@hierarchy

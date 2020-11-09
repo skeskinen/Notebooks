@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2020-10-14T20:03:26+03:00
-
-====== Journaling ======
-Created Wednesday 14 October 2020
-
-Come up with a keyword. Set a timer and record everything you think of. Read and rewrite the important parts.

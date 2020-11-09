@@ -10,10 +10,14 @@ Created Friday 11 September 2020
 [ ] Stranger in a strange land
 [ ] Saarnaajan kirja
 [ ] Tao te ching
+[ ] The Art of Learning
 [ ] SICP
 [ ] Island
 [ ] Notes from the underground
+[ ] Discourses of Epictetus, The Enchiridion by Epictetus
 [ ] Meditations
+[ ] On the Shortness of Life by Seneca
+[ ] Stoic Paradoxes
 [ ] History of Western Philosophy
 [ ] Wisdom of the West
 [ ] Notes from the underground
@@ -34,3 +38,14 @@ Created Friday 11 September 2020
 [ ] Metamodernist Manifesto
 [ ] Digital Design and Computer Architecture
 [ ] Seitsemän veljestä
+[ ] Matteuksen ja Johanneksen evankeliumit
+[ ] Vanha testamentti
+
+Swann’s Way, by Marcel Proust
+The Satanic Verses, by Salman Rushdie
+The Aenied of Virgil
+Plato’s Republic 
+The Trial by Kafka
+War and Peace by Tolstoy
+Plutarch’s Lives
+The Brothers Karamazov by Dostoevsky

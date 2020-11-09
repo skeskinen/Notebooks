@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2020-10-15T07:31:25+03:00
-
-====== b ======
-Created Thursday 15 October 2020
-
-Once the system is complex enough there will be compounding problems. Solutions cause more problems that in turn cause more problems. It becomes impossible to solve anything new.

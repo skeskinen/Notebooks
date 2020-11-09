@@ -1,0 +1,147 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-28T16:36:47+02:00
+
+====== 2020-09-28 ======
+Created Monday 28 September 2020
+
+====== Ways to augment human capabilities ======
+
+Transhumanism
+
+The vision of Doug Engelbart
+
+Education
+
+Eugenics
+
+Processes & efficiency
+
+Knowledge
+
+Thinking
+
+Health
+
+====== Holistic ======
+Created Monday 28 September 2020
+
+Holisticism is always some sort of sham.
+The distinction between environment and the thing you are focusing on is arbitrary. You cannot think holistically about the whole universe.
+
+Reductionist approach is to isolate pieces that have well defined observable states and have clear "API" or good separation of concerns. Of course this is also a sham sinse you always have some "cross cutting corcerns" that break your compartmentalization.
+
+
+====== Information overload ======
+Created Monday 28 September 2020
+
+Doug Engelbart:
+We need better tools to tackle "humanity's complex urgent problems"
+
+VUCA
+Volatile Uncertain Complex Ambiguous 
+No amount of information helps.
+
+Good visualization can help but sometimes it just adds even more information. The best feature of prose is brevity; the author acts as an information filter.
+
+====== Liminal space ======
+Created Monday 28 September 2020
+
+The distance between what you know and the unknown.
+Uncomfortable journey. Change is necessary but it is not yet clear what the new state will be.
+
+
+
+Liminal space is very hard to come by in the modern and now post-modern world. We are now too strategic, functional, and hurried to easily seek what the ancients sought above all else. Only pain is now strong enough to lead us into this unique place "where all significant transformation happens."
+Richard Rohr
+
+Computer scientists are too comfortable in their ways as well. 
+
+Change is discomfort. Change is uncertainty. Good times mean that people become fearful and complacent.
+
+If times are good people will resist the change with everything they've got. But in the end the change is forced upon them.
+
+
+Liminal space is interesting in religious sense. Religions require devotion and belief. 
+Being devoted means becoming comfortable with the liminal space. This reminds me of Bhakti yoga, the spiritual way to enlightenment.
+True belief has doubt. If you just believe you are a fanatic. If you have doubts you are in liminal space.
+I could see how being devoted in this way can lead to detachment from desires. If you are comfortable in liminal space you can withstand any hardships and feel fine. Some religious people are pretty cool, others are assholes.
+
+
+Spiritual growth is learning to thrive in ambiguity. Knowing that you'll be fine and being able to just wait or just do what you must.
+
+Many cultures have rites of passage. Maybe something like that is necessary for spiritual growth.
+
+
+Crazy idea: system that makes random changes to your codebase to make it feel less familiar. Kind of rite of passage thing.
+Also, codebase that is robust to random changes seems well made.
+
+====== Mentality of changing things ======
+Created Monday 28 September 2020
+
+You need to be able to change things around you.
+A lot of people get stuck in the mental spaces they build for themselves.
+Just staying in the same place is easy. Even if it hurts.
+
+This feels similar to the liberation you get from building your own tools.
+You are not bound by what other people have done or think is right.
+
+Part of the culture I want is that people have ability to think for themselves, to own things and make meaningful changes. I believe that is required so that people can take pride in their work. You have to lead by example and be ready to make major changes.
+
+Code fearlessly. Ask for forgiveness not permission.
+
+Hire smart people and make them responsible for the things they do.
+
+Computer science is supposed to be only limited by what people can come up with. But people are limited by the thoughts that have been thought before.
+
+====== Setbacks in games ======
+Created Monday 28 September 2020
+
+Players don't like it when a game does something to hinder them. It feels unfair and often random.
+
+It is much better if you can structure the game so that players themselves cause the problems by messing up.
+
+Good: failing simcity in SC
+Bad: Traps in nethack
+Neither: Biters in Factorio, still feels kinda random
+
+====== Tool ======
+Created Monday 28 September 2020
+
+A tool addresses human needs by augmenting human capabilities.
+
+* What are the human needs?
+* What are the pre-existing capabilities that we should augment?
+
+Additionally there are technical considerations:
+* Tool should be well made
+* Tool should fit the job
+* Tool should be in the right place at the right time
+* Tool should be cheap
+
+====== Why do programmers think differently from writers ======
+Created Monday 28 September 2020
+
+I don't understand why the ways programmers work are so different from writers.
+
+Writers collect notes, do research etc.
+Consult the notes to check what the topic is and then start writing from abundance.
+The process of writing is largely process of reduction and elimination.
+
+
+This doesn't sound anything like what programmers are doing. Is programming so different from writing?
+In my mind there is a clear analogy between organizing formalisms into a working program and organizing thoughts into a coherent argument/story.
+Could the writers process be made into effective programming paradigm?
+
+====== Wisdom ======
+Created Monday 28 September 2020
+
+To attain knowledge, add things every day. To attain wisdom, remove things every day.
+— Lao Tzu
+
+A lot of people are adding knowledge.
+Who is going to take it away.
+
+
+Wiki with global word limit.
+

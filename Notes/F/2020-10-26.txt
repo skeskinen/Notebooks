@@ -1,0 +1,48 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-26T22:33:47+02:00
+
+====== 2020-10-26 ======
+Created maanantai 26 lokakuu 2020
+
+====== Stages of thought and morals ======
+
+Are there stages of postformal thought?
+There are no good test setups so no hard evidence. Critics say that everything can be thought as a recombination of formal thought.
+Theories of possible postformal thought stages have characteristics like: seeing multiple viewpoints, reformulating problems into new problems, more flexible notions of 'truth'.
+
+Moral areas of the brain continue to develop until the age of ~25. It would make some sense that there are more stages of moral development.
+But it is hard to say what those stages would be and do people go throught them in order. Are some stages "better" than others?
+
+
+Judaism and Christianity can have different moralities while keeping the same concept of sin.
+Morality of Judaism is more law based and christian moral is more value based.
+
+Are christian morals better? They are more abstract and sophisticated. Christian morals are on later stage of moral development. But is it better in any meaningful sense?
+
+====== Sin, morals and wisdom ======
+
+Sin is the corruption that leads to distorted view of good and evil. Sin is often something that gets worse with time or even accelerates.
+Wisdom is knowing the true value of a thing.
+Sin leads you to misunderstand the values of things.
+
+You start programming in Java. First you find classes and methods kind of cool, kind of intellectually challenging. Next thing you know you are using dependency injection everywhere. Your view of good and bad has been corrupted.
+Gateway hypothesis of wisdom
+
+Where has wisdom gone?
+Hedonism, fall of christian values, lack of time, commercialism and invented needs
+
+
+Are morals universal?
+No, but some morals lead to more just system as a whole.
+Moral systems have a bunch of free variables that are not too important, such as some rights that aren't that life changing.
+
+====== Capitalism and entreprenourship ======
+
+
+Capitalism has made entreprenourship class more specialized. Before there were more entreprerours who had small businesses.
+
+====== Programming and note taking ======
+
+Assumption: programming and writing are both generalizable ways of thingking.
+Conjecture: they should have transferrable skills. Good programmers should have some sort of intuition for note taking. Maybe you can even develop better note taking methods based on programming knowledge, e.g. compression based programming.

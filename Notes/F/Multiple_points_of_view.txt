@@ -1,9 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2020-09-03T22:54:19+02:00
-
-====== Multiple points of view ======
-Created Thursday 03 September 2020
-
-Pick a toping and write on it 3 times from 'positive', 'negative' and 'neutral' point of view. Then analyze each stance and write conclusion.
-

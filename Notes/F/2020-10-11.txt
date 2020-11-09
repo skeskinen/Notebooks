@@ -1,0 +1,137 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-11T20:24:28+03:00
+
+====== 2020-10-11 ======
+Created Sunday 11 October 2020
+
+Nice feature of software is that software engineers are able to build their own tools. That is kind of rare feature in a profession. E.g. blacksmiths can do it since their tools are made of metal and they work metal. But it's kind of rare.
+
+====== Conscription army ======
+Created Sunday 11 October 2020
+
+World needs more flexible thinkers. Army is the opposite of that.
+
+Army is not good rite of passage. 
+
+====== Cycles ======
+Created Sunday 11 October 2020
+
+Allz thinking in cycles:
+During the cycles you should execute, exploit.
+Between cycles you should plan and reflect.
+
+====== Direction of innovations ======
+Created Sunday 11 October 2020
+
+Innovations in a society usually happen in the field that drives expansion. Whatever is seen as the limiting factor of progress is what most people will focus on.
+
+The innovation has to be timed so that it will actually produce results. The results are necessary so that the pioneers will acquire wealth and power to drive the innovation forward. This means that there is some sort of natural order for innovations. There are economic, social and technological prerequisites for each innovation.
+
+With startups you can get so much funding that the "gaining wealth through improvements" side isn't as important.
+
+====== Generating demand ======
+Created Sunday 11 October 2020
+
+Innovation
+Interest rate, investment time horizon
+
+
+Long term investments don't create compound interest. No compound interest means that the rolling ball is slow to start.
+
+====== Hero's journey ======
+Created Sunday 11 October 2020
+
+The things that the hero brings back must benefit their community. Otherwise he is just selfish and/or navalgazing.
+
+====== How to choose what to simplify ======
+Created Sunday 11 October 2020
+
+Choosing what to simplify is an artistic choice. The decision is always somewhat arbitrary.
+Should you use existing library? Implement your own? What is truly the simplest solution. Both can be seen as simpler in their own way.
+
+Simplification should:
+* Enhance the collective IQ of your organization
+* Make the system more resilient to (external) changes/pressure
+
+====== Simplicity ======
+
+Simplicity is the ultimate sophistication.
+
+Simplicity is our only weapon in the fight against complexity that'll collapse the civilization.
+
+Everything you do has some sort of high level spec and the artifact you produce has to conform to that spec. Even if there is no formal spec there is some reason why the thing you made exists. 
+Everything should be made as simple as possible, but not simpler.
+
+In fields such as physics, oversimplification is often more common than excess complexity. This might mean that if there is no model that is simple enough to understand for humans, the result is useless. Then you have to give up or trust that later there will be some better way to represent the results.
+
+
+====== Western hedonism ======
+Created Sunday 11 October 2020
+
+In modern culture we make lots of media, entertainment etc.
+
+Western cultures have lost the distinction between things that make you feel good and actual good.
+Good feeling is useful guideline but it is not the end goal.
+
+Christian tradition has very different view on good.
+
+In asian cultures good is more collective thing.
+
+====== Increase in community size ======
+Created Sunday 11 October 2020
+
+Larger community creates hierarchy. Hierarchy creates mistrust and inefficiency.
+
+In larger communities basic social functions start to malfunction. E.g. in prisoner's dilemma you should play tit-for-tat strategy. Theory is that in larger communities people choose worse options game theoretically.	
+
+====== Marketting old ideas ======
+Created Sunday 11 October 2020
+
+There is value in redressing old ideas / wisdom into new form that is more accessible.
+
+Psychoanalysts rethink religions. Good teachers use language that students understand.
+
+====== Monospace fonts ======
+Created Sunday 11 October 2020
+
+Are monospace fonts simpler?
+From human understanding point of view proportional fonts are "simpler".
+From technical point of view monospace fonts are simpler.
+
+What is simplicity?
+
+Simplicity is removing requirements. Simplicity is adapting to pressure.
+Feynman diagrams made things simpler. Simplicity is improving understanding.
+
+These goals can be in conflict as in the monospace font case.
+
+====== Structure of belief ======
+Created Sunday 11 October 2020
+
+Beliefs are the parts of the universe that you think are constant.
+E.g. Jews think that laws of the society are constant.
+
+Believing that the structure of society is constant has led jewish researchers to all sorts of findings that people didn't think to look for.
+
+====== Suffering ======
+Created Sunday 11 October 2020
+
+Life is suffering.
+
+Following your dharma allows you to choose your own suffering to an extent.
+
+Otherwise you are weak and aimless.
+
+Choosing you own suffering is fundamental. E.g. decision to commit suicide brings good feeling. You take back control of your own life.
+
+Rite of passage, liminal space, too easy life. People don't encounter enough suffering. They don't know how to deal with suffering. This leads to people who can't handle and can't choose their own suffering.
+
+====== Swimmers and islanders ======
+Created Sunday 11 October 2020
+
+When should one go back to exploration stage?
+
+Exploring is important to find the true global optimal states.
+
+Monte carlo 

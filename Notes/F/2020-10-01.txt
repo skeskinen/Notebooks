@@ -1,0 +1,116 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-01T00:07:11+02:00
+
+====== 2020-10-01 ======
+Created torstai 01 lokakuu 2020
+
+Coming to Switzerland was a mental challenge. But I didn't really feel that way.
+
+In some sense it was too easy, but that's not really a good description. I didn't even engage with the "problem". And it's not fair to say it was too easy because I didn't even try.
+
+Why are some "problems" more engaging than others? Is choosing to ignore a problem a good thing, part of focusing on the important stuff?
+
+====== Creating problems for yourself ======
+Created torstai 01 lokakuu 2020
+
+Part of being a good human is to know what the correct amount of challenge is. Getting to the correct amount is an artform.
+
+Too little can make people lazy. Too much can make the resenful.
+
+This is related to the play mammalian play circuit. Important aspect of play is the correct amount of challenge.
+Creating play is definitely an artform.
+
+Imaginary mountains build themselves from our efforts to climb them.
+
+Are there any interesting challenges left? Were there ever? If someone like Plato is still relevant as ever, I'd say that none of the interesting problems are solved.
+
+====== Customizability and usability ======
+Created torstai 01 lokakuu 2020
+
+One of the problems of software is that people want to use software to solve any and all problems. This is of course impossible, but it doesn't stop people from trying.
+
+System like C64 is both customizable and simple. But it demands more from the operator. It lacks some most state keeping mechanisms. Lack of state might even be the key to the simplicity.
+
+Apple products are limited in customizability. But they were elegant and effective. "In MacOS everything just works"
+
+====== Hardware reset button ======
+Created torstai 01 lokakuu 2020
+
+Even without internet you can have types of malware that lock you out of your data, or freeze the system in some way.
+
+If the hardware had a button to return the system to a known good state, malware would be at most annoying.
+
+Of course users would probably not like to push the button. it would limit the usability of the system.
+
+====== Known good states and simplicity ======
+Created torstai 01 lokakuu 2020
+
+Game consoles behave the same way every time you start them.
+
+They can still be very customizable since you can change cartridges. The cartridges can even store save games.
+
+But the machine is always returned to known good state when you reset. 
+
+This is rather elegant. Why can't we make a smartphone or pc that has a known good state?
+
+Of course things like note taking would be harder. Web of notes is a very stateful thing.
+
+====== Malware ======
+Created torstai 01 lokakuu 2020
+
+There will always be malware. As long as computers have capabilities, people will find ways to missuse them.
+Either for profit or just malevolence.
+
+The only way to get rid of malware is to remove the capabilities.
+
+
+====== People and toughness ======
+Created torstai 01 lokakuu 2020
+
+It seems like people these days complain about everything. And it seems people are very sensitive.
+
+But are people really more sensitive today than in the past? Maybe social media etc. just makes it seem like that. There is always someone complaining about everything.
+
+Something like Black rights movement has faced roughly the same amount of hardships with roughly the same amount of activicism for a long time.
+
+Maybe people always think that people in the past were tougher? Did medieval people think that people of the antique were tougher?
+At the same time, when you look at something like the practise of duels, it's hard to argue that modern people are tough. Our lives are so easy!
+
+People say that late Rome was decadent. If those reports are true then there should be meaninful plot of decadence of cultures that would show actual changes between years/generations.
+
+
+
+====== Mental challenges for growth ======
+Created torstai 01 lokakuu 2020
+
+Becoming a single parent is a huge transformative challenge for a lot of people.
+
+Most most rites of passage or grounding techniques are physical. Physical challenges are easier to come by and they are better defined.
+
+Are there training versions of these types of mental challenges? Could you come up with mental challenges that could take the place of rites of passage? They would need to be kind of universal i.e. work for many people.
+
+
+====== Education and standards ======
+Created torstai 01 lokakuu 2020
+
+Anything you do for education should be close to perfect. That means iteration. Everything should be in place.
+
+Similarly investigation into how a thing should be tought should be complete.
+
+====== Genetic epistemology ======
+Created torstai 01 lokakuu 2020
+
+Knowledge is inseparable from learning. Studying learning is studying the structure of the problem.
+
+The big question in education is to what extent is knowledge modular. How can you split things into smaller and smaller chunks. Once you know the structure of the problem it should be easier to come up with environments for learning each part.
+
+E.g. Numbers have order, proximity to other numbers, arithmetic, different representations, they are copyable etc.
+
+
+====== Homeostasis ======
+Created torstai 01 lokakuu 2020
+
+Homeostasis is bad for the body. It is not the natural state and causes problems when required maintenance never runs.
+
+There is bias in science/industry to prefer homeostasis solutions. It is seen as safe or simple. Examples: medicine and bloodsugar, economy and growth or inflation.

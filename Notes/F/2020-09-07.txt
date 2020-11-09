@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-07T21:41:22+02:00
+
+====== 2020-09-07 ======
+Created Monday 07 September 2020
+
+Envision editor Asenov
+http://pm.inf.ethz.ch/publications/getpdf.php?bibname=Own&id=Asenov17.pdf
+
+
+====== Literate Programming ======
+Created Monday 07 September 2020
+
+Code should read like a book.
+
+There is no such thing as a reader's block.
+Reading should be a leisure activity. The editor needs to support this.
+
+====== Overpopulation ======
+Created Monday 07 September 2020
+
+Developing until birthrate drops is not a real option since it's not possible to support 7 billion people above poverty line.
+
+When calculating the theoretical earth carrying capacity you have remember that current consumption is already unsustainable.
+

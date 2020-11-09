@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2020-10-20T19:18:06+03:00
-
-====== 1 ======
-Created tiistai 20 lokakuu 2020
-
-Society precedes existance. The society and the individuals have co-evolved. It forms a strange loop

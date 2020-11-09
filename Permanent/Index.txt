@@ -5,3 +5,49 @@ Creation-Date: 2020-10-15T11:42:58+03:00
 ====== Index ======
 Created Thursday 15 October 2020
 
+Capabilities
+* [[1]]
+* [[2]]
+
+Collapse
+* [[5]]
+
+Culture_tech
+* [[6]]
+
+Daoism
+* [[4]]
+
+Deglobalization
+* [[5]]
+
+Douglas_Engelbart
+* [[2]]
+
+Jevon's_Paradox
+* [[1]]
+
+Nature
+* [[4]]
+
+Religion
+* [[3]]
+
+Roles
+* [[6]]
+
+Simplicity
+* [[1]]
+* [[6]]
+
+Suffering
+* [[5]]
+
+Stoicism
+* [[4]]
+
+Tools
+* [[2]]
+ 
+Wisdom
+* [[3]]

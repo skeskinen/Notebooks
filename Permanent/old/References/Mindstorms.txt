@@ -1,0 +1,81 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-15T07:40:24+03:00
+
+====== Mindstorms ======
+Created Thursday 15 October 2020
+
+
+Ch 4: [[6]]
+Ch 5: [[1]] [[1:d]]
+
+
+Splitting things into parts is one of the fundamental ways to make something understandable.
+It can be used as a learning technique; simple parts can be learned in isolation and collected into a whole.
+
+There are multiple different ways to split any problem. Some of them make the whole simpler and others make it more complicated.
+
+Ways of how splitting can make problem simpler:
+* Pieces can be verified independently.
+* Pieces can be reused.
+* There is good separation between pieces. They make sense as categories.
+
+Ways of how splitting can make problem more complicated:
+* Pieces are not simple. E.g. they may have complicated interdependencies.
+* Pieces can require complicated glue/runtime to work together.
+
+Intuition is organized in hierarchical fashion. New levels of intuition always build on existing capabilities of the brain.
+This is neatly represented as Minsky's agents. More complicated functions are like manages who aggregate and prioritize. Eventually all important decisions are made on higher and higher levels of cognition.
+
+Any new form of thinking must really heavily on the existing machinery of the mind. It will be recombination of the existing thought patterns.
+Does this mean there is less hope for revolutionary programming paradigms? Not necessarily; maybe the existing ones have poor usage of the existing capabilities.
+
+Almost nobody thinks in formalism. Some people have learned to read and write formalisms.
+But formal languages are just that, languages. People think in language, right?
+
+There is no reason why children can't learn systematic thinking. Just the traditional environments don't produce many opportunities for this.
+
+At least for me, systems thinking is internal stimulation of the total state. You have to imagine and handle all the possible states. I could imagine that the agents responsible for that are quite high level.
+But it is dividable into pieces. At least in programming. Many real life problems are also dividable into procedure steps. But the divide is more hazy. 
+Programming languages differ in how they divide the operations into words of the language.
+
+In optimal learning environment the masters are doing essentially the same activities as the learners. For programming that sounds kind of unlikely. "Kids' programming" is very different from professional programming. The two have meet somewhere in the middle.
+
+Complicated structures or algorithms don't get much easier even if you break them into million pieces. Same for organizational structure. Monolithic code is often the best.
+
+The turtle geometry is a bridge between the mathematical thoughts and bodily knowledge/sensations i.e. physical skills. 
+Most all formalisms started as some intuitive thought, many of them physical. This type of bridges are important to bring the physical intuition back.
+Is there a way to translate more complex programming tasks into relatable framework?
+
+Kinetic and location senses have much clearer concepts of state than language. Sense of location should be perfect for representing state?
+
+What would research into "programming that is educationally interesting" look like?
+
+
+
+Splitting things into parts is one of the fundamental ways to make something understandable.
+It can be used as a learning technique; simple parts can be learned in isolation and collected into a whole.
+
+
+There are multiple different ways to split any problem. Some of them make the whole simpler and others make it more complicated.
+
+Ways of how splitting can make problem simpler:
+* Pieces can be verified independently.
+* Pieces can be reused.
+* There is good separation between pieces. They make sense as categories.
+
+Ways of how splitting can make problem more complicated:
+* Pieces are not simple. E.g. they may have complicated interdependencies.
+* Pieces can require complicated glue/runtime to work together.
+
+
+
+Humans find it hard to describe skills in words. Complex motor movements or aesthetics are good examples.
+However experts in all fields spent great efforts to try to verbalize their field, typically with reasonable success. Expert languages assume that there is a lot of common context between speaker and listener, but they make communication possible. 
+Verbalizing enables this knowledge to be manipulated with all the mental tools for processing written words and thus enabled more complicated thoughts.
+
+For learning it is important to choose verbal analysis makes sense or not. Intuitive learning is often necessary.
+
+A large benefit of intuitive learning is that it's harder to learn something false. With verbal knowledge you usually make a lot of assumptions and then some implications or other mental tricks. But you might not realize that some part of the logic broke or introduced new complications. In this sense intuitive knowledge is more holistic; when you learn by doing, your actions are constantly validated agains the real world.
+
+

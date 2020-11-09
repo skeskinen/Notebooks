@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2020-10-16T22:31:48+03:00
-
-====== L ======
-Created perjantai 16 lokakuu 2020
-
-Language [[6]]

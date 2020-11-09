@@ -1,0 +1,81 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-29T18:56:05+02:00
+
+====== 2020-09-29 ======
+Created Tuesday 29 September 2020
+
+Intellect is fundamental human capability. Augmenting intellect means building tools that augment it.
+
+Humanity has many problems that require complex solutions. Complex solutions require intellect; to build, to use, to maintain.
+
+Finding ways to augment intellect is one of the most impactful things possible.
+
+Success criteria:
+* Some human need is fulfilled
+* Able to think previously unthinkable thoughts
+* Make something complex simpler
+
+====== Communicating values ======
+Created Tuesday 29 September 2020
+
+Steve Jobs: Marketing is about values.
+You have limited communication bandwidth to your customers. And they don't really care. So you make them care by communicating your values.
+
+What do you want to communicate and how do you choose that?
+Values - stories - knowledge - wisdom
+
+All communication is to some extent marketing.
+
+====== Fill your mind ======
+Created Tuesday 29 September 2020
+
+The dao
+
+Fill your mind with action so that the action becomes effortless.
+
+To achieve this you must first empty your mind.
+
+====== Hierarchy of capabilities ======
+Created Tuesday 29 September 2020
+
+Doug Engelbart divided problem-solving capabilities into 2 groups:
+* Basic capabilities
+* Advanced capabilities built from the basic ones
+
+It is worth more to augment the lower level ones since the effects will bubble up the hierarchy.
+
+====== Human needs ======
+Created Tuesday 29 September 2020
+
+Human capabilities have been increased greatly.
+Yet something like Aurelius' Meditations is still revevant.
+We still need to be strong and vigilant so that the state is not corrupted by the mad king.
+
+Most of the development is going in wrong directions.
+We need to make damn sure that the things we do actually address the human needs.
+And to do that we first have to make sure we know what those needs are.
+
+Something like psychoanalysis or Maps of Meaning seems like the best answer.
+
+
+E.g. people need spiritual growth but the progress has put them into an environment that stifles it.
+
+====== Structure and representation ======
+Created Tuesday 29 September 2020
+
+Only structured knowledge can be represented cleanly and efficiently.
+
+For unstructured knowledge the best you can do is a book.
+Which is fine but books actually have a lot of structure, it's just not visible in the end product.
+
+Unstructured knowledge becomes untagled mess that makes reading very hard.
+
+====== Wisdom of the ancients ======
+Created Tuesday 29 September 2020
+
+It is highly likely that what you need was known and is written somewhere.
+
+The smart people of the past were actually really smart.
+
+They also lived lives that were much harder.

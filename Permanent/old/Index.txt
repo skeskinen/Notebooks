@@ -1,0 +1,34 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-15T11:42:58+03:00
+
+====== Index ======
+Created Thursday 15 October 2020
+
+Capabilities [[29:2]]
+Collapse [[29:5]]
+Complexity, Compounding costs [[6:b:1:b:1]] [[5:b:1:b]]
+
+Denial [[10]] [[1:e:1]]
+
+Iterating [[2]]
+
+Knowledge [[29:3]]
+
+Modelling [[27]]
+
+Nature [[29:4]]
+
+Hero's Journey [[17:a]]  [[18:b]]
+Hierarchy [[1]]
+
+Language [[6]]
+
+Qualitative/Quantitative [[13:a]]
+
+Simplify [[8:a:2:a:1:e]] [[29:1]] [[29:6]]
+Strange loop:
+	* Instances [[8:a:1:a:1:a]]  [[8:a:2:a:1:d:1]]  [[17:d:1]]
+Structure [[29:6]]
+
+Wisdom [[29:3]]

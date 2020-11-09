@@ -1,0 +1,34 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-15T02:12:26+02:00
+
+====== 2020-09-15 ======
+Created Tuesday 15 September 2020
+
+====== Collective iq ======
+
+How quickly and accurately an organization can respond to external stimulus.
+
+How efficiently an organization uses it's resources.
+
+Can the organization create sensible goals for itself? I.e can it be self-driven/proactive?
+
+====== Organization survival ======
+Created Tuesday 15 September 2020
+
+Once org becomes about propagating itself, it becomes inflexible. Growing parts of the org are directed towards resisting changes.
+
+Ultimately the resistance to change will be the orgs downfall as it's unable to adapt to changes in the environment. It's collective IQ is low as it can't change it's behaviour based on external stimulus.
+
+This is similar to the process of aging in individuals.
+
+Powerful orgs will also try to fight to keep the environment constant, but this will always fail in the end.
+
+====== When to stop gathering info ======
+Created Tuesday 15 September 2020
+
+On every problem there is some information tipping point where additional information becomes useless/harmfull.
+
+Recognizing and accepting these tipping points requires a leap of faith; you can't be certain about the future. The org must be ready to accept the ambiguity.
+
+Agile organizations should be good at spotting these tipping points and cutting off the information gathering process.

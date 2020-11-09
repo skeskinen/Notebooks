@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-11-07T19:03:44+02:00
+
+====== 2020-11-07 ======
+Created lauantai 07 marraskuu 2020
+
+====== Local decision making ======
+
+Why is local decision making better?
+
+Information propagates in imperfect manner and the propagation is expensive.

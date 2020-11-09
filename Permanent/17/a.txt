@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2020-10-18T15:41:48+03:00
-
-====== a ======
-Created sunnuntai 18 lokakuu 2020
-
-Growing up is like the Hero's journey. You find out what the real world is like, master it and return to help your village.

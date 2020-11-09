@@ -1,0 +1,93 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-04T20:46:21+02:00
+
+====== 2020-09-04 ======
+Created Friday 04 September 2020
+
+Representation is important.
+* Efficiency: processing, serialization, deserialization
+* Availability: all the necessary parts should be readily accessable
+* Correct representation can reveal insights
+
+Knowledge needs to be editable.
+
+Knowledge needs to be practical. If it's not practical then it's just noise.
+
+Compression and information theory.
+
+
+Structure enables creativity.
+Structure enables knowledge transfer. Transfer is necessity for knowledge to exist, without transfer mechanism it is just noise.
+
+====== Information content in art ======
+Created Friday 04 September 2020
+
+Is the position of a bush in a Mario level knowledge?
+
+In the game code it occupies bits. And it was hand picked by an artist.
+But nobody would know/care if it moved a bit.
+
+Games tend to have a lot of this kind of "B-knowledge". Trivia.
+Most art does.
+Good artists minimize irrelevant parts.
+Games need to have worlds that are not 100% art. A lot of stuff just has to be consistent with the world to build immersion and continuity.
+
+Should gamedev tools separate important bits from trivia?
+Should coding tools separate important bits from trivia?
+
+====== Mental energy, extroversion ======
+Created Friday 04 September 2020
+
+Introverts spent more energy per social interaction.
+Aleksi spoke about the weight you give for each social interaction and how spending time hiking changes that. When hiking you learn to care about every person you meet. That strategy fails when you come back to city life because in cities you will be exhausted if you care about random people you pass by on the streets.
+
+Hypothesis: Extroverts can effectively block more social context from their thought process.
+Test setup: Do extrovents notice less beggars when walking on the streets than introverts.
+
+
+Would this mean introverted people are more empathetic?
+You could look into correlation between extroversion and empathy. But I think empathy is not well defined in psychology.
+
+What are the related Big 5 personality traits? 
+
+====== Process transfer = knowledge transfer ======
+Created Friday 04 September 2020
+
+The way tools transfer knowledge is by codifying things and processes.
+Piece of knowledge: 	Separating draft from references is useful.
+Conclusion: 			Writing tool has distinction between these.
+
+
+====== Project updates 1-on-1 ======
+Created Friday 04 September 2020
+
+Instead of doing group updates, maybe there should be 2^n tiny 1-on-1 meetings.
+If it is done online the overhead can be minimized.
+
+Compared to group meetings the presenters time is "wasted" since they have to present the same thing to everyone. Listeners time spent stays the same.
+I see large benefits from personalization of the content, better ability to ask details and better feedback for the presenter.
+
+I think it makes sense that juniors present to smaller audiences. They get practise and their time is not as expensive.
+
+====== Tech and Toxic Diversity ======
+Created Friday 04 September 2020
+
+The point of diversity is to destroy bubbles.
+It is meant to make decision-making better by reducing groupthink.
+
+When diversity is the only accepted policy it becomes meaningless or counter productive.
+It doesn't reduce groupthink but diversity becomes the new group
+
+Big tech has some of the worst echo chambers in the world. And they are all about diversity.
+
+HR becomes unable to solve the problem it was created to solve.
+As HR becomes unable to do its job it grows in size.
+
+====== Twitter as brain dump ======
+Created Friday 04 September 2020
+
+Writing for the sake of writing.
+Is there value in text that is never read? This goes back to writing as a thinking tool.
+The threshold for sharing something is quite high. Most people don't share random thoughts. Maybe twitter works like this. But you need a decent following before anyone will seriously encage with your text.
+Twitter is not really designed for developing thougts. But it is a platform with low friction thought sharing. 

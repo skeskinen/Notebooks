@@ -1,0 +1,55 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-11-02T14:41:25+02:00
+
+====== 2020-11-02 ======
+Created maanantai 02 marraskuu 2020
+
+Didn't get any tasks done last week.
+Creating permanent notes is hard.
+
+[ ] Finish note backlog
+
+[ ] Cleanup blog code
+
+[ ] Implement blog archive page
+
+[ ] Blog in rust
+	[*] Outline
+	[ ] Write Three paragraphs
+	[ ] Write blog post draft 1
+	[ ] Outline part 2
+	[ ] Write blog post draft 2
+[ ] Why write
+	[*] Outline
+	[ ] Write Three paragraphs
+	[ ] Write blog post draft 1
+	[ ] Outline part 2
+	[ ] Write blog post draft 2
+[ ] Mindstorms review
+	[*] Outline
+	[ ] Write Three paragraphs
+	[ ] Write blog post draft 1
+	[ ] Outline part 2
+	[ ] Write blog post draft 2
+[ ] Monospace
+	[*] Outline
+	[ ] Write Three paragraphs
+	[ ] Write blog post draft 1
+	[ ] Outline part 2
+	[ ] Write blog post draft 2
+[ ] Nand2Tetris
+	[*] Outline
+	[ ] Write Three paragraphs
+	[ ] Write blog post draft 1
+	[ ] Outline part 2
+	[ ] Write blog post draft 2
+
+[ ] Sveitsi veroilmoitus,  
+
+[ ] Stranger In a strange land 28
+[ ] Stranger In a strange land 31
+[ ] Stranger In a strange land 33
+[ ] Stranger In a strange land 36
+[ ] Stranger In a strange land DONE
+

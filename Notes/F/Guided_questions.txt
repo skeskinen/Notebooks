@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2020-10-14T20:04:41+03:00
-
-====== Guided questions ======
-Created Wednesday 14 October 2020
-
-If topic is not clear in your mind you can try to explain it to yourself. Write the question down and start explaining. If there are followup questions you can repeat the process.

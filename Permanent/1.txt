@@ -1,8 +1,12 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
-Creation-Date: 2020-10-14T20:06:07+03:00
+Creation-Date: 2020-10-26T16:15:32+02:00
 
 ====== 1 ======
-Created Wednesday 14 October 2020
+Created maanantai 26 lokakuu 2020
 
-All knowledge is built on top of existing knowledge. Things you know form a hierarchy of prerequisites and lateral associations.
+We need to balance the growing complexity of the world with simplicity.
+The trend is that things get more complicated to the point that all human capabilities are used up and everyone is miserable.
+
+#Simplicity #Capabilities #Jevon's_paradox
+

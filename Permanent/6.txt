@@ -1,8 +1,12 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
-Creation-Date: 2020-10-15T07:38:50+03:00
+Creation-Date: 2020-10-26T16:23:15+02:00
 
 ====== 6 ======
-Created Thursday 15 October 2020
+Created maanantai 26 lokakuu 2020
 
-Professionals in each field spend a lot of effort on coming up with new language or representations for their domain knowledge.
+Simplify living by adding structure to life.
+People are suffering from lack of direction and structure. The meaninglessness makes them vulnerable to all sorts of toxic identities.
+We should develop cultural technology that allows people to feel like they are meaningful part of a larger whole, i.e. role based society or apprenticeships.
+
+#Simplicity #Culture_tech #Roles

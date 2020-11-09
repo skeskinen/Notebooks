@@ -1,0 +1,40 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-13T21:09:04+02:00
+
+====== 2020-09-13 ======
+Created Sunday 13 September 2020
+
+====== Writing libraries to be modified ======
+
+Libraries shouldn't be finished products but templates that will be copied to the final project and modified to suit the needs of the user.
+
+How would this change what the library authors do?
+* Less edge case handling
+* Less features
+* More documentation around the core systems
+* Different packaging
+
+====== Software book ======
+Created Sunday 13 September 2020
+
+Writing software like writing a book.
+
+Themes -> Requirements
+Characters -> Components
+Antagonist -> ? clients? external apis?
+
+Writing process:
+1) Write "notes"
+2) Come up with central idea based on notes & research
+3) Combine notes and edit the whole thing
+
+Structure:
+1) Introduction, establish requirements, components. Light read.
+2) Conflict, hairy parts. Lowest point.
+3) Resolution, conclusion, putting things together.
+
+
+Having to rearrange your code into a story forces you to rethink about the code you wrote. It adds additional structure and cohesion. New edits have to fit the whole and find a place in the established story.
+
+The story form gives new readers a logical order in which the software should be approached.

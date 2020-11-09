@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2020-10-18T23:40:06+03:00
-
-====== Q ======
-Created sunnuntai 18 lokakuu 2020
-
-Qualitative/Quantitative [[13:a]]

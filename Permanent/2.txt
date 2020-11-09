@@ -1,8 +1,11 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
-Creation-Date: 2020-10-14T22:08:08+03:00
+Creation-Date: 2020-10-26T16:15:54+02:00
 
 ====== 2 ======
-Created Wednesday 14 October 2020
+Created maanantai 26 lokakuu 2020
 
-Writing and note taking facilitates iteration of thoughts.
+World is filled with complex problems and we need to augment human capabilities to meet them.
+We should build tools and proceduces that help people to think better and in new ways.
+
+#Capabilities #Tools #Douglas_Engelbart

@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-21T13:31:39+03:00
+
+====== 1 ======
+Created keskiviikko 21 lokakuu 2020
+
+Most laws&regulations are seen as reducing productivity. But good laws should increase the productivity of the society as a whole. Through the strange loop of individuals+society this should increase the productivity of the individuals as well.
+
+@strange_loop

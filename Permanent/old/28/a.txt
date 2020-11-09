@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-22T22:19:03+03:00
+
+====== a ======
+Created torstai 22 lokakuu 2020
+
+You need to know the limits of the software.
+
+[[17:g:3:a]]

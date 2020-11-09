@@ -1,8 +1,12 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
-Creation-Date: 2020-10-14T22:16:42+03:00
+Creation-Date: 2020-10-26T16:17:01+02:00
 
 ====== 3 ======
-Created Wednesday 14 October 2020
+Created maanantai 26 lokakuu 2020
 
-All things have their natural course. The natural way is simple and effortless.
+Making wisdom understandable and accessable.
+Past definitions of wisdom have been too vague and haven't really taken off outside of religions.
+We should try to make a formulation of wisdom that doesn't require subscribing to complicated ideology or religion.
+
+#Wisdom #Religion

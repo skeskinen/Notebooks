@@ -1,0 +1,80 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-14T20:59:52+02:00
+
+====== 2020-09-14 ======
+Created Monday 14 September 2020
+
+====== Exceptions in programming ======
+
+Exceptions as replacement for gotos.
+
+Way of returning control flow.
+
+You could have and IDE that adds exception handlers for all the exceptions coming from given statement.
+You could drag&drop exceptions to different levels of trycatch and/or combine them into groups like in switch-case fallthrough.
+
+Exceptions don't need to be defined anywhere.
+It's enough to write
+```
+raise Hit_Leaf l
+```
+And outside context knows that Hit_Leaf is one of the possible control flow paths.
+
+Q: how to make the types match? Are two functions that can throw stuff of the same type?
+
+You also need to find a place for the exception parameters. The outside should be able to find the parameters even if the exception is polymorphic.
+
+```
+a : int -> int (Throws Foo int)
+b : int -> int (Throws Bar int)
+
+f = rand(1) ? a : b;
+
+f 4
+catch
+any_exception i -> i
+```
+Here you cannot know if the exception was Foo or Bar, but you can get the argument.
+Throws to foo and bar are both just goto/return to the any_exception handler.
+
+Q: How to implement jump tables?
+
+====== Generational improvements ======
+Created Monday 14 September 2020
+
+Each generation should build a learning environment that is slightly better than the last one.
+Most of the great computer scientists are over 80 or dead. Computer science has advanced but slowly. I'd imagine most people in the field are unhappy with the progress.
+
+Engelbart's law, we need to get better at getting better.
+
+People thought that we can just skip stages and build on top of abstractions. We were too greedy and went too fast.
+
+Instead we should find ways to build better learning environments for the stuff that exists already.
+
+Each new generation should learn the fundamentals more efficiently.
+
+====== Information ======
+Created Monday 14 September 2020
+
+Presenting more information doesn't help. People are already drowning in information.
+
+Everything you show should be actionable.
+
+It should be a crime to show people something they don't need to see.
+
+What people need are the means to act in case of a change in the environment.
+
+"I hate everything that merely instructs me without augmenting or directly quickening my activity."
+
+To know what information is important, you need to know what your goals are. Then orient your search towards those goals. Without goals your are just searching blindly.
+
+====== More information ======
+Created Monday 14 September 2020
+
+If you have a complex system, the more information you cather about it, the crazier you become.
+
+You think you know more and cather more info, but all of that doesn't help your decision making one bit. In the end the best you can do is guess, which you could have done just as well completely blindly.
+
+The correct way to manage a complex situation is to be flexible and adaptable. Don't try to predict the future but be ready to thrive in as many of the possible endstates as possible.
+
