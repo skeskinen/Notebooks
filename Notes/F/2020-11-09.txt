@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-11-09T23:00:21+02:00
+
+====== 2020-11-09 ======
+Created maanantai 09 marraskuu 2020
+
+====== Play, education and nand2tetris ======
+
+Play is characterized by exploration and freedom in the results. Educational projects should not be too well defined or they risk becoming boring.
+
+Nand2tetris felt pretty fun for the most part. The chapters are well defined for the most part which makes it kind of counter example. But at least the way I did the programming parts there was a lot of freedom and reverse engineering which is type of exploration. 
+
+The enjoyable part of software projects should be the exploration of the unknown. But it is often also scary and lifeless.
+
+====== Colors ======
+https://news.ycombinator.com/item?id=24397183
+https://en.wikipedia.org/wiki/Natural_Color_System
+https://github.com/sw-yx/spark-joy/blob/master/README.md#color-picking
