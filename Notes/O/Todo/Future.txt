@@ -10,9 +10,7 @@ Created Monday 14 September 2020
 
 [ ] Buy bridge.gg
 
-[ ] Päivitä lumo maksu -> 2087e
-
-[ ] Sveitsi 2019 vero online koodi, 0800228811
+[*] Päivitä lumo maksu -> 2087e
 
 Blog link:
 vrunge@google.com

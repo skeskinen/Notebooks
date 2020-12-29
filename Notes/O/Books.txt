@@ -6,21 +6,25 @@ Creation-Date: 2020-09-11T21:47:22+02:00
 Created Friday 11 September 2020
 
 [*] Mindstorms
+[*] Stranger in a strange land
+[*] Saarnaajan kirja
+[*] Tao te ching
+[*] The Enchiridion by Epictetus
+[*] Discourses of Epictetus
+[*] On Intelligence
+[*] Stoic Paradoxes
 
-[ ] Stranger in a strange land
-[ ] Saarnaajan kirja
-[ ] Tao te ching
+[ ] Meditations
+[ ] On the Shortness of Life by Seneca
+
+[ ] Flow
+[ ] Pragmatic Programmer
 [ ] The Art of Learning
 [ ] SICP
 [ ] Island
 [ ] Notes from the underground
-[ ] Discourses of Epictetus, The Enchiridion by Epictetus
-[ ] Meditations
-[ ] On the Shortness of Life by Seneca
-[ ] Stoic Paradoxes
 [ ] History of Western Philosophy
 [ ] Wisdom of the West
-[ ] Notes from the underground
 [ ] Maps of Meaning
 [ ] Analects
 [ ] Thinking Forth

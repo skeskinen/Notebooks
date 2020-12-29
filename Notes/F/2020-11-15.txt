@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-11-15T18:37:05+02:00
+
+====== 2020-11-15 ======
+Created sunnuntai 15 marraskuu 2020
+
+====== Split government and non-profits ======
+
+Splitting tax revenues into multiple categories can decrease the influence that politicans have on public spending.
+A large portion of public budget should be paid directly by citizens to non-profits that will manage roads, social security programs, etc.
+
+This would reduce potential spots for corruption. And it would work nicely with more local orgs since the locals would prefer to invest in their local institutions and infrastructure.
+
+====== Decomplexifying ======
+
+Decomplexifying system often requires some shock to the environment.
+E.g. nature and evolution tends to favor more complex solutions when conditions are relatively stable. Stable conditions favor exploitation, which implies efficiency and complexity. Unstable conditions favor adaptability I.e. simplicity.
+
+It would be preferrable if we could decomplexify gradully, by removing requirements.

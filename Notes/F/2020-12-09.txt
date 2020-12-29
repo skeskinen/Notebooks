@@ -1,0 +1,35 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-12-09T21:43:10+02:00
+
+====== 2020-12-09 ======
+Created keskiviikko 09 joulukuu 2020
+
+====== Brain's emergent growth based on energy use? ======
+Blood vessels bring energy in a fractal pattern. This could have effects on the order in which neurons are activated & learn.
+Contrary: Axons seem to grow to correct locations prenatally. E.g. from eyes directly to sensory area.
+On the other hand: People learn to use new sensory inputs or vision flipping glasses, so what's up with prenatal learning
+
+====== Schizophrenia ======
+Schizophrenia is somehow directly linked to dopamine. There seems to be too much dopamine in the prefrontal cortex.
+Other suspect is Thalamus which is at least linked to hallucinations that come with schizophrenia. Thalamus issues could explain why schizophrenics have hard time with abstraction levels and abstract thoughts.
+
+====== Hippocampus ======
+Hippocampus stores episodic memories.
+The representation of the memories has to be directly linked with cortex.
+
+I think it makes sense that the memories are not always on the highest level of abstraction available in the cortex. This way you can store memories that are not representatible on the highest level of abstraction and the stored memories can be used to train the most abstract level of cortex. 
+Anything more concrete than one-level-from-top is probably way too inefficient to even think about.
+
+It's interesting to think about how hippocampus stores the memories. You need to have something like the observed pattern in the cortex in order to store the memory. Otherwise there would be no way to represent the memory, nothing to activate when the memory is replayed.
+Knowledge representations: memory, zettels, strange loops
+
+====== Brain learning and Piaget ======
+
+Piaget levels could be explained with a model where new level of cortex abstractions comes online for thinking.
+I theorized that when the level change happens, hippocampus is redirected to a more abstract layer in cortex. I think the episodic memories in hippocampus are important for training the next layer of abstraction. The details are unclear.
+
+====== Forth logo ======
+Logo would be kind of interesting as a learning microworld. But there maybe too much sytax etc. I think there could be a nice stack based logo variant that could be more suitable.
+
+

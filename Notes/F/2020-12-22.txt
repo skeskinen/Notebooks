@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-12-22T21:13:18+02:00
+
+====== 2020-12-22 ======
+Created tiistai 22 joulukuu 2020
+
+====== High level thoughts/goals and internal rationalization ======
+
+Humans have an illusion of conscious thought but most our thoughts come from the lower level processes in the brain. We mistake the results of the internal rationalization process as thoughts.
+E.g. Hormones -> will to do sports -> rationalization for doing sports, conversely hormones -> no will to do sports -> rationalization for not exercising
+This makes the greek view of rationality and "faculties of reason" suspicious. How can they know what is rational and what isn't? The brain tries it's hardests to hide the distinction.
