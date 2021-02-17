@@ -5,6 +5,9 @@ Creation-Date: 2020-10-15T11:42:58+03:00
 ====== Index ======
 Created Thursday 15 October 2020
 
+Attention
+* [[8]]
+
 Capabilities
 * [[1]]
 * [[2]]
@@ -16,7 +19,7 @@ Culture_tech
 * [[6]]
 
 Daoism
-* [[4]]
+* [[8]]
 
 Deglobalization
 * [[5]]
@@ -24,11 +27,27 @@ Deglobalization
 Douglas_Engelbart
 * [[2]]
 
+Education
+* [[7]]
+
+Flexibility
+* [[3:3a]]
+
+Flow
+* [[8]]
+
+Framework
+* [[3:3a]]
+
+Individualism
+* [[7]]
+
 Jevon's_Paradox
 * [[1]]
 
 Nature
 * [[4]]
+* [[9]]
 
 Religion
 * [[3]]
@@ -40,11 +59,17 @@ Simplicity
 * [[1]]
 * [[6]]
 
+Society
+* [[7]]
+
 Suffering
 * [[5]]
 
-Stoicism
+Sustainability
 * [[4]]
+
+Stoicism
+* [[9]]
 
 Tools
 * [[2]]

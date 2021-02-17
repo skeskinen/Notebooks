@@ -9,3 +9,11 @@ Created maanantai 26 lokakuu 2020
 
 kuinka opitaan? -habit forming
 esimerkkejä sankareista, jumalista etc.
+
+
+
+Programming language
+Editor
+Hofstadter style AI
+Neurology AI
+Game engine / rendering
