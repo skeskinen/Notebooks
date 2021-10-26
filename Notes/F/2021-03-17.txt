@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-03-17T19:45:16+02:00
+
+====== 2021-03-17 ======
+Created keskiviikko 17 maaliskuu 2021
+
+====== Hardware is the problem ======
+
+When solving sweeping issues like loss of meaning, globalization or climate change, people tend to abstract away the context where the problem exists. Solving the problem then becomes a mental excercise that has little to do with the reality.
+This is similar to how people approach problems in computer science. You construct a theoretical model of the environment and solve the problem in that theoretical environment. This solution is typically too abstract or inefficient to be useful in the real world.
+People don't see that the context is the problem. The problem is what to do inside the constraints set by the environment.

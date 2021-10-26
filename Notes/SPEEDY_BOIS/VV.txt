@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-10-25T13:19:40+03:00
+
+====== VV ======
+Created maanantai 25 lokakuu 2021
+

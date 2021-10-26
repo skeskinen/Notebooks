@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-10-25T13:21:29+03:00
+
+====== outline 1 ======
+Created maanantai 25 lokakuu 2021
+
+* Why 300 trade is interesting and what 'everything has a price' does.
+* What 300 trade requires?
+	* 1.3 million denars in profits
+	* 660k base xp
+	* don't need to actually receive the money.
+		* profits in denars -> forced to visit 1400 villages OR 150 caravans OR 28 cities.
+			* Since we don't really care about the money, we can just keep doing trades the game thinks are profitable even when the opposing party cannot pay. I think that makes us the generous side of the transaction.
+* How the prices work
+	* buying and selling to a city changes the price, some goods are more or less sensitive
+	* city internal supply & demand
+	* villages and caravans prices
+		* demonstrate exploiting caravans with irrelevant item, like flax
+* How to get initial funds and a party that can carry the trade goods?
+* Why we sell iron?
+	* linked good
+	* able to get more through smelting
+	* able to visit 4 villages and go to sanala efficienctly
+* Why start from Battania and end in Sanala?
+* Execute the run
+	* Each cycle we make almost 80,000 in profit

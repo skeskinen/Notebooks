@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-10-22T11:43:44+03:00
+
+====== devin tips ======
+Created perjantai 22 lokakuu 2021
+
+Ludwig:
+Thumbnail should start a story or ask a question. It should be a hook.
+Text in the thumbnail should add something.
+
+every video should have stakes & story
+
+intro: introduce the stakes

@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-10-22T09:17:26+03:00
+
+====== Perks ======
+Created perjantai 22 lokakuu 2021
+
+leadership 25, same culture recruitment boost
+leadership 100, renown gain
+leadership 125, party size from towns
+leadership 150?, bandit conversion
+
+roguery 50, remove bandit recruitment morale penalty
+roguery 100, faster bandit recruitment
+roguery 125, enemy surrender chance
+
+125 trade, workshop renown
+300 trade?
+
+athletic 75, persuasion chance
+
+charm 50, renown from battles
+charm 75, persuasion chance
+
+medicine 25, personal heal after battles
+
+
+--------------------
+roguery 200, reduce prisoner escape 30%
+riding 225, reduce prisoner escape 50%
+scouting 225, reduce prisoner escape 50%
